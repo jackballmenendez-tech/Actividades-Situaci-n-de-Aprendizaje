@@ -1,0 +1,1618 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260505234701HJ0G5C</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>202605052347018V5AXM</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Sesiones de la SdA- De músicos a directores: ¡Creamos, interpretamos y producimos música!</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Jack Ball Menéndez</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Sesiones de la Situación de Aprendizaje para el alumnado de 6º de Educación Primaria del área de Artística y Música.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1778003429123</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mosx4ygs-g0wcfl59i</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Sesiones</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesiones</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesiones</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mosx4ygs-g0wcfl59i</odePageId>
+      <odeBlockId>20260416165745KHMCGU</odeBlockId>
+      <blockName>Planificación</blockName>
+      <iconName>roadmap</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mosx4ygs-g0wcfl59i</odePageId>
+          <odeBlockId>20260416165745KHMCGU</odeBlockId>
+          <odeIdeviceId>20260402173856699EWH</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent">
+            <div class="exe-text-activity">
+                <div><p style="text-align: justify;">La planificación de esta SdA se divide en 6 sesiones de 50 minutos cada una.&nbsp;</p>
+<p style="text-align: justify;">Las <strong>tres primeras sesiones </strong>están vinculadas a la conciencia del patrimonio cultural a cerca de los monumentos romanos que hoy en día siguen en pie, así como las ruinas que hay en Asturias, en España y en Reino Unido.</p>
+<ul style="text-align: justify;">
+<li>1º. Introducción a la temática: el o la docente contextualizará al alumnado los monumentos romanos de España, haciendo una comparativa con Reino Unido e introducirá al Imperio Romano con un vídeo explicativo de YouTube.</li>
+<li>2º. Los monumentos romanos: juegos interactivos para poner en práctica lo aprendido hasta el momento.</li>
+<li>3º. Patrimonio romano español vs inglés- Infografía: el alumnado diseñará una infografía en Canva.&nbsp;</li>
+</ul>
+<p style="text-align: justify;">Las <strong>dos sesiones siguientes</strong> están enfocadas a las deidades romanas, en las que los estudiantes aprenderán sobre la mitología romana, crearán un dios o una diosa y grabarán un podcast sobre ello.</p>
+<ul style="text-align: justify;">
+<li>4º Las deidades romanas</li>
+<li>5º. Grabación del podcast.</li>
+</ul>
+<p style="text-align: justify;">La <strong>última sesión</strong> finaliza con la actividad complementaria a las Termas Romanas de Gijón, para concoer en primera persona los restos de la sociedad romana en Asturias.</p>
+<ul>
+<li style="text-align: justify;">6º. Excursión a las termas romanas de Gijón.</li>
+</ul><p class="clearfix"></p></div>
+            </div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20260402173856699EWH","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">La planificación de esta SdA se divide en 6 sesiones de 50 minutos cada una. </p>\n<p style=\"text-align: justify;\">Las <strong>tres primeras sesiones </strong>están vinculadas a la conciencia del patrimonio cultural a cerca de los monumentos romanos que hoy en día siguen en pie, así como las ruinas que hay en Asturias, en España y en Reino Unido.</p>\n<ul style=\"text-align: justify;\">\n<li>1º. Introducción a la temática: el o la docente contextualizará al alumnado los monumentos romanos de España, haciendo una comparativa con Reino Unido e introducirá al Imperio Romano con un vídeo explicativo de YouTube.</li>\n<li>2º. Los monumentos romanos: juegos interactivos para poner en práctica lo aprendido hasta el momento.</li>\n<li>3º. Patrimonio romano español vs inglés- Infografía: el alumnado diseñará una infografía en Canva. </li>\n</ul>\n<p style=\"text-align: justify;\">Las <strong>dos sesiones siguientes</strong> están enfocadas a las deidades romanas, en las que los estudiantes aprenderán sobre la mitología romana, crearán un dios o una diosa y grabarán un podcast sobre ello.</p>\n<ul style=\"text-align: justify;\">\n<li>4º Las deidades romanas</li>\n<li>5º. Grabación del podcast.</li>\n</ul>\n<p style=\"text-align: justify;\">La <strong>última sesión</strong> finaliza con la actividad complementaria a las Termas Romanas de Gijón, para concoer en primera persona los restos de la sociedad romana en Asturias.</p>\n<ul>\n<li style=\"text-align: justify;\">6º. Excursión a las termas romanas de Gijón.</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mosx4yh2-gytn3chin</odePageId>
+  <odeParentPageId>page-mosx4ygs-g0wcfl59i</odeParentPageId>
+  <pageName>Sesión 1. Introducción a la Orquesta</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 1. Introducción a la Orquesta</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 1. Introducción al Patrimonio Cultural- Cultural Heritage</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Sesión 1. Introducción a la Orquesta</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mosx4yh2-gytn3chin</odePageId>
+      <odeBlockId>20260416165745QCTBKQ</odeBlockId>
+      <blockName>Desarrollo de la sesión</blockName>
+      <iconName>ask</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mosx4yh2-gytn3chin</odePageId>
+          <odeBlockId>20260416165745QCTBKQ</odeBlockId>
+          <odeIdeviceId>20260402194012496PO2</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;"><strong>1. Inicio (10’)</strong><br />Se presentará la Situación de Aprendizaje, explicando al alumnado los objetivos, las tareas que van a realizar (infografía y vídeo musical) y cómo serán evaluados (rúbricas que estarán visibles en el aula). Para activar los conocimientos previos, se realizará una lluvia de ideas guiada con preguntas como: ¿qué es una orquesta?, ¿qué instrumentos conoces? o ¿has visto alguna vez una orquesta en directo o en vídeo?</p>
+<p style="text-align: justify;"><strong>2. Desarrollo (25’)</strong><br />Visualización de un vídeo educativo sobre la orquesta y las familias de instrumentos. Durante el visionado, se les pedirá que presten atención a ejemplos de instrumentos y sus características.<iframe width="560" height="314" src="https://www.youtube.com/embed/NAYuW-CTDBM" allowfullscreen="allowfullscreen"></iframe><iframe width="560" height="314" src="https://www.youtube.com/embed/EGVEzezbUWc" allowfullscreen="allowfullscreen"></iframe></p>
+<p style="text-align: justify;">Posteriormente, se realizará un diálogo guiado con preguntas de repaso:</p>
+<p style="text-align: justify;">¿Qué familias de instrumentos existen? ¿En qué se diferencian?<br />¿Qué instrumento te ha llamado más la atención?<br />Se llevará a cabo una evaluación inicial mediante preguntas orales o herramienta digital (Plickers).</p>
+<p style="text-align: justify;"><strong>3. Cierre (10’)</strong><br />Para consolidar lo aprendido, el alumnado realizará una actividad interactiva (tipo emparejar y clasificar instrumentos según su familia), favoreciendo el aprendizaje activo. La sesión finalizará con una breve síntesis por parte del docente, anticipando que en la siguiente sesión comenzarán a investigar y crear su propia infografía.<br /></p>
+<p style="text-align: justify;"><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20260402194012496PO2","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\"><strong>1. Inicio (10’)</strong><br />Se presentará la Situación de Aprendizaje, explicando al alumnado los objetivos, las tareas que van a realizar (infografía y vídeo musical) y cómo serán evaluados (rúbricas que estarán visibles en el aula). Para activar los conocimientos previos, se realizará una lluvia de ideas guiada con preguntas como: ¿qué es una orquesta?, ¿qué instrumentos conoces? o ¿has visto alguna vez una orquesta en directo o en vídeo?</p>\n<p style=\"text-align: justify;\"><strong>2. Desarrollo (25’)</strong><br />Visualización de un vídeo educativo sobre la orquesta y las familias de instrumentos. Durante el visionado, se les pedirá que presten atención a ejemplos de instrumentos y sus características.<iframe width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/NAYuW-CTDBM\" allowfullscreen=\"allowfullscreen\"></iframe><iframe width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/EGVEzezbUWc\" allowfullscreen=\"allowfullscreen\"></iframe></p>\n<p style=\"text-align: justify;\">Posteriormente, se realizará un diálogo guiado con preguntas de repaso:</p>\n<p style=\"text-align: justify;\">¿Qué familias de instrumentos existen? ¿En qué se diferencian?<br />¿Qué instrumento te ha llamado más la atención?<br />Se llevará a cabo una evaluación inicial mediante preguntas orales o herramienta digital (Plickers).</p>\n<p style=\"text-align: justify;\"><strong>3. Cierre (10’)</strong><br />Para consolidar lo aprendido, el alumnado realizará una actividad interactiva (tipo emparejar y clasificar instrumentos según su familia), favoreciendo el aprendizaje activo. La sesión finalizará con una breve síntesis por parte del docente, anticipando que en la siguiente sesión comenzarán a investigar y crear su propia infografía.<br /></p>\n<p style=\"text-align: justify;\"><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mosx4yh2-gytn3chin</odePageId>
+      <odeBlockId>block-1778008177875-7pix01t8t</odeBlockId>
+      <blockName>Relaciona</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mosx4yh2-gytn3chin</odePageId>
+          <odeBlockId>block-1778008177875-7pix01t8t</odeBlockId>
+          <odeIdeviceId>idevice-1778008177873-tv3w9pj5g</odeIdeviceId>
+          <odeIdeviceTypeName>relate</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="relaciona-IDevice"><div class="relaciona-instructions gameQP-instructions"><p>Relaciona cada tarjeta con su pareja.</p></div><div class="relaciona-DataGame js-hidden">{"typeGame":"Relaciona","author":"","randomCards":true,"instructions":"<p>Relaciona cada tarjeta con su pareja.</p>","showMinimize":false,"itinerary":{"showClue":false,"clueGame":"","percentageClue":40,"showCodeAccess":false,"codeAccess":"","messageCodeAccess":""},"cardsGame":[{"url":"","x":0.39372306034482757,"y":0.5431034482758621,"author":"","alt":"","audio":"","color":"#000000","backcolor":"#ffffff","eText":"Viol%C3%ADn","urlBk":"","xBk":0.33405172413793105,"yBk":0.5646551724137931,"authorBk":"","altBk":"","audioBk":"","colorBk":"#000000","backcolorBk":"#ffffff","eTextBk":"Familia%20de%20Cuerda%20Frotada"},{"url":"","x":0,"y":0,"author":"","alt":"","audio":"","color":"#000000","backcolor":"#ffffff","eText":"Saxof%C3%B3n","urlBk":"","xBk":0,"yBk":0,"authorBk":"","altBk":"","audioBk":"","colorBk":"#000000","backcolorBk":"#ffffff","eTextBk":"Familia%20Viento%20Madera"},{"url":"","x":0,"y":0,"author":"","alt":"","audio":"","color":"#000000","backcolor":"#ffffff","eText":"Trompa","urlBk":"","xBk":0,"yBk":0,"authorBk":"","altBk":"","audioBk":"","colorBk":"#000000","backcolorBk":"#ffffff","eTextBk":"Familia%20Viento%20Metal"},{"url":"","x":0,"y":0,"author":"","alt":"","audio":"","color":"#000000","backcolor":"#ffffff","eText":"Guitarra","urlBk":"","xBk":0,"yBk":0,"authorBk":"","altBk":"","audioBk":"","colorBk":"#000000","backcolorBk":"#ffffff","eTextBk":"Familia%20Cuerda%20Pulsada"},{"url":"","x":0,"y":0,"author":"","alt":"","audio":"","color":"#000000","backcolor":"#ffffff","eText":"Timbal","urlBk":"","xBk":0,"yBk":0,"authorBk":"","altBk":"","audioBk":"","colorBk":"#000000","backcolorBk":"#ffffff","eTextBk":"Familia%20de%20Percusi%C3%B3n%20Altura%20Determinada"},{"url":"","x":0,"y":0,"author":"","alt":"","audio":"","color":"#000000","backcolor":"#ffffff","eText":"B%C3%B3mbo","urlBk":"","xBk":0,"yBk":0,"authorBk":"","altBk":"","audioBk":"","colorBk":"#000000","backcolorBk":"#ffffff","eTextBk":"Familia%20Percusi%C3%B3n%20Altura%20Indeterminada"}],"isScorm":0,"textButtonScorm":"Guardar la puntuación","repeatActivity":true,"weighted":100,"textAfter":"","version":2,"percentajeCards":100,"type":1,"showSolution":true,"timeShowSolution":3,"time":3,"evaluation":false,"evaluationID":"a4eae75c-f518-4617-9b79-4d832b6b9607","id":"idevice-1778008177873-tv3w9pj5g","msgs":{"msgSubmit":"Enviar","msgClue":"¡Genial! La pista es:","msgCodeAccess":"Código de acceso","msgPlayStart":"Pulsa aquí para jugar","msgScore":"Puntuación","msgErrors":"Errores","msgHits":"Aciertos","msgMinimize":"Minimizar","msgMaximize":"Maximizar","msgFullScreen":"Pantalla Completa","msgExitFullScreen":"Salir del modo pantalla completa","msgNoImage":"Pregunta sin imágenes","msgEndGameScore":"Comience la partida antes de guardar la puntuación.","msgScoreScorm":"La puntuación no se puede guardar porque esta página no forma parte  de un paquete SCORM.","msgOnlySaveScore":"¡Solo puede guardar la puntuación una vez!","msgOnlySave":"Solo puede guardar una vez","msgInformation":"Información","msgYouScore":"Su puntuación","msgAuthor":"Autoría","msgOnlySaveAuto":"Su puntuación se guardará después de cada pregunta. Solo puede jugar una vez.","msgSaveAuto":"Su puntuación se guardará automáticamente después de cada pregunta.","msgSeveralScore":"Puede guardar la puntuación tantas veces como quiera","msgYouLastScore":"La última puntuación guardada es","msgActityComply":"Ya ha realizado esta actividad.","msgPlaySeveralTimes":"Puede realizar esta actividad cuantas veces quiera","msgClose":"Cerrar","msgAudio":"Audio","msgNumQuestions":"Número de tarjetas","msgTryAgain":"Necesitas al menos %s% de respuestas correctas para obtener la información. Inténtalo de nuevo.","msgEndGameM":"Has completado el juego. Tu puntuación es %s.","msgUncompletedActivity":"Actividad no completada","msgSuccessfulActivity":"Actividad superada. Puntuación: %s","msgUnsuccessfulActivity":"Actividad no superada. Puntuación: %s","msgTypeGame":"Relaciona","msgCheck":"Comprobar","msgRestart":"Reiniciar"}}</div><div class="game-evaluation-ids js-hidden" data-id="idevice-1778008177873-tv3w9pj5g" data-evaluationb="false" data-evaluationid="a4eae75c-f518-4617-9b79-4d832b6b9607"></div><div class="relaciona-bns js-hidden">Su navegador no es compatible con esta herramienta.</div></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mosx4yh4-70stcq2tv</odePageId>
+  <odeParentPageId>page-mosx4ygs-g0wcfl59i</odeParentPageId>
+  <pageName>Sesión 2. Investigación y diseño de la infografía</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 2. Investigación y diseño de la infografía</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 2. Monumentos romanos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Sesión 2. Investigación y diseño de la infografía</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mosx4yh4-70stcq2tv</odePageId>
+      <odeBlockId>20260416165745FULNGO</odeBlockId>
+      <blockName>Desarrollo de la sesión</blockName>
+      <iconName>interactive</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mosx4yh4-70stcq2tv</odePageId>
+          <odeBlockId>20260416165745FULNGO</odeBlockId>
+          <odeIdeviceId>20260402192909733WIA</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;"><strong>Inicio (10’)</strong><br />La sesión comenzará con un breve repaso de los contenidos trabajados en la sesión anterior mediante una actividad interactiva, con el objetivo de reforzar la clasificación de los instrumentos de la orquesta. A continuación, se explicará al alumnado la tarea principal de la sesión: la elaboración de una infografía digital en Canva o Genially, recordando su finalidad, estructura y criterios de evaluación (que estarán visibles en el aula virtual).</p>
+<p style="text-align: justify;"><iframe width="560" height="314" src="https://www.youtube.com/embed/rk_m6NY3s1o" allowfullscreen="allowfullscreen"></iframe></p>
+<p style="text-align: justify;"><iframe width="560" height="314" src="https://www.youtube.com/embed/BBGIAhtrlng" allowfullscreen="allowfullscreen"></iframe></p>
+<p style="text-align: justify;"><strong>Desarrollo (30’)</strong><br />El alumnado se organizará en grupos cooperativos de 4-5 integrantes, asumiendo roles (coordinador/a, portavoz, responsable digital, etc.) para favorecer la participación equitativa. Utilizando tablets y recursos digitales facilitados por el docente (vídeos, páginas web seguras, materiales de apoyo), realizarán una búsqueda guiada de información sobre las familias de instrumentos (cuerda, viento y percusión), seleccionando los datos más relevantes.</p>
+<p style="text-align: justify;">Posteriormente, comenzarán el diseño de la infografía en Canva o Genially, pudiendo partir de una plantilla básica  para facilitar la accesibilidad. Se les indicará que deben incluir: nombre de las familias, ejemplos de instrumentos, imágenes y al menos un elemento interactivo (enlace o recurso audiovisual). El docente acompañará el proceso resolviendo dudas y orientando la selección de la información.</p>
+<p style="text-align: justify;"><strong>Cierre (5’)</strong><br />Para finalizar, cada grupo realizará una breve puesta en común del progreso realizado, compartiendo dificultades o ideas. Se recordarán los aspectos que deberán completar en la siguiente sesión y se fomentará la reflexión sobre el trabajo cooperativo.</p>
+<p style="text-align: justify;">Evaluación: observación directa mediante lista de cotejo (participación, organización y uso adecuado de la información).<br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20260402192909733WIA","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\"><strong>Inicio (10’)</strong><br />La sesión comenzará con un breve repaso de los contenidos trabajados en la sesión anterior mediante una actividad interactiva, con el objetivo de reforzar la clasificación de los instrumentos de la orquesta. A continuación, se explicará al alumnado la tarea principal de la sesión: la elaboración de una infografía digital en Canva o Genially, recordando su finalidad, estructura y criterios de evaluación (que estarán visibles en el aula virtual).</p>\n<p style=\"text-align: justify;\"><iframe width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/rk_m6NY3s1o\" allowfullscreen=\"allowfullscreen\"></iframe></p>\n<p style=\"text-align: justify;\"><iframe width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/BBGIAhtrlng\" allowfullscreen=\"allowfullscreen\"></iframe></p>\n<p style=\"text-align: justify;\"><strong>Desarrollo (30’)</strong><br />El alumnado se organizará en grupos cooperativos de 4-5 integrantes, asumiendo roles (coordinador/a, portavoz, responsable digital, etc.) para favorecer la participación equitativa. Utilizando tablets y recursos digitales facilitados por el docente (vídeos, páginas web seguras, materiales de apoyo), realizarán una búsqueda guiada de información sobre las familias de instrumentos (cuerda, viento y percusión), seleccionando los datos más relevantes.</p>\n<p style=\"text-align: justify;\">Posteriormente, comenzarán el diseño de la infografía en Canva o Genially, pudiendo partir de una plantilla básica  para facilitar la accesibilidad. Se les indicará que deben incluir: nombre de las familias, ejemplos de instrumentos, imágenes y al menos un elemento interactivo (enlace o recurso audiovisual). El docente acompañará el proceso resolviendo dudas y orientando la selección de la información.</p>\n<p style=\"text-align: justify;\"><strong>Cierre (5’)</strong><br />Para finalizar, cada grupo realizará una breve puesta en común del progreso realizado, compartiendo dificultades o ideas. Se recordarán los aspectos que deberán completar en la siguiente sesión y se fomentará la reflexión sobre el trabajo cooperativo.</p>\n<p style=\"text-align: justify;\">Evaluación: observación directa mediante lista de cotejo (participación, organización y uso adecuado de la información).<br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mosx4yh4-70stcq2tv</odePageId>
+      <odeBlockId>20260416165745WIWRET</odeBlockId>
+      <blockName>Infografía</blockName>
+      <iconName>activity</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mosx4yh4-70stcq2tv</odePageId>
+          <odeBlockId>20260416165745WIWRET</odeBlockId>
+          <odeIdeviceId>20260402184538458WLA</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">La infografía recoge las familias de instrumentos de la orquesta (cuerda, viento y percusión), incluyendo ejemplos de cada una de ellas. Cada familia deberá contener el nombre, una breve explicación de sus características, imágenes de los instrumentos y, al menos, un elemento interactivo (como un enlace o vídeo) que ayude a comprender mejor su funcionamiento.</p>
+<p style="text-align: justify;">Los contenidos estarán redactados de forma clara y organizada, utilizando un diseño visual atractivo que facilite la comprensión. A través de esta actividad, se desarrollan la competencia digital, la competencia en comunicación lingüística y la competencia en conciencia y expresión cultural, al mismo tiempo que se fomenta la creatividad y el trabajo en equipo.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20260402184538458WLA","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">La infografía recoge las familias de instrumentos de la orquesta (cuerda, viento y percusión), incluyendo ejemplos de cada una de ellas. Cada familia deberá contener el nombre, una breve explicación de sus características, imágenes de los instrumentos y, al menos, un elemento interactivo (como un enlace o vídeo) que ayude a comprender mejor su funcionamiento.</p>\n<p style=\"text-align: justify;\">Los contenidos estarán redactados de forma clara y organizada, utilizando un diseño visual atractivo que facilite la comprensión. A través de esta actividad, se desarrollan la competencia digital, la competencia en comunicación lingüística y la competencia en conciencia y expresión cultural, al mismo tiempo que se fomenta la creatividad y el trabajo en equipo.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mosx4yh4-70stcq2tv</odePageId>
+      <odeBlockId>20260416165745JXAQIR</odeBlockId>
+      <blockName>Averigua la imagen escondida</blockName>
+      <iconName>piece</iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mosx4yh4-70stcq2tv</odePageId>
+          <odeBlockId>20260416165745JXAQIR</odeBlockId>
+          <odeIdeviceId>20260402171529708RJ0</odeIdeviceId>
+          <odeIdeviceTypeName>hidden-image</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="hiddenimage-IDevice"><div class="game-evaluation-ids js-hidden" data-id="20260402171529708RJ0" data-evaluationb="false" data-evaluationid="20260323185502QGBJTP"></div><div class="hiddenimage-instructions HIP-instructions"><p>Revela la imagen oculta y elige la respuesta correcta. Tienes 4 intentos.</p></div><div class="hiddenimage-version js-hidden">1</div><div class="hiddenimage-DataGame js-hidden">%E9%B0%F3%E1%FB%F5%FC%F3%E6%E7%E0%F3%B0%A8%B0%B0%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%E6%EB%E2%F7%D5%F3%FF%F7%B0%A8%B0%DA%FB%F6%F6%F7%FC%DB%FF%F3%F5%F7%B0%BE%B0%FB%FC%E1%E6%E0%E7%F1%E6%FB%FD%FC%E1%D7%EA%F7%B0%A8%B0%B7%A1%D1%E2%B7%A1%D7%C0%F7%E4%F7%FE%F3%B7%A0%A2%FE%F3%B7%A0%A2%FB%FF%F3%F5%F7%FC%B7%A0%A2%FD%F1%E7%FE%E6%F3%B7%A0%A2%EB%B7%A0%A2%F7%FE%FB%F5%F7%B7%A0%A2%FE%F3%B7%A0%A2%E0%F7%E1%E2%E7%F7%E1%E6%F3%B7%A0%A2%F1%FD%E0%E0%F7%F1%E6%F3%BC%B7%A0%A2%C6%FB%F7%FC%F7%E1%B7%A0%A2%A6%B7%A0%A2%FB%FC%E6%F7%FC%E6%FD%E1%BC%B7%A1%D1%BD%E2%B7%A1%D7%B0%BE%B0%FB%FC%E1%E6%E0%E7%F1%E6%FB%FD%FC%E1%B0%A8%B0%C0%F7%E4%F7%FE%F3%B2%FE%F3%B2%FB%FF%F3%F5%F7%FC%B2%FD%F1%E7%FE%E6%F3%B2%EB%B2%F7%FE%FB%F5%F7%B2%FE%F3%B2%E0%F7%E1%E2%E7%F7%E1%E6%F3%B2%F1%FD%E0%E0%F7%F1%E6%F3%BC%B2%B0%BE%B0%E1%FA%FD%E5%DF%FB%FC%FB%FF%FB%E8%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%FD%E2%E6%FB%FD%FC%E1%C0%F3%FF%F6%FD%FC%B0%A8%F4%F3%FE%E1%F7%BE%B0%F3%FC%E1%E5%F7%E0%E1%C0%F3%FF%F6%FD%FC%B0%A8%F4%F3%FE%E1%F7%BE%B0%E1%FA%FD%E5%C1%FD%FE%E7%E6%FB%FD%FC%B0%A8%E6%E0%E7%F7%BE%B0%E6%FB%FF%F7%C1%FA%FD%E5%C1%FD%FE%E7%E6%FB%FD%FC%B0%A8%A1%BE%B0%E0%F7%E4%F7%F3%FE%C6%FB%FF%F7%B0%A8%B0%A3%B0%BE%B0%FB%E6%FB%FC%F7%E0%F3%E0%EB%B0%A8%E9%B0%E1%FA%FD%E5%D1%FE%E7%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%F1%FE%E7%F7%D5%F3%FF%F7%B0%A8%B0%B0%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F5%F7%D1%FE%E7%F7%B0%A8%A6%A2%BE%B0%E1%FA%FD%E5%D1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%F4%F3%FE%E1%F7%BE%B0%F1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%B0%B0%BE%B0%FF%F7%E1%E1%F3%F5%F7%D1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%B0%B0%EF%BE%B0%E3%E7%F7%E1%E6%FB%FD%FC%E1%D5%F3%FF%F7%B0%A8%C9%E9%B0%FC%E7%FF%F0%F7%E0%DD%E2%E6%FB%FD%FC%E1%B0%A8%A6%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%F1%E7%E1%E6%FD%FF%C1%F1%FD%E0%F7%B0%A8%A3%BE%B0%E7%E0%FE%B0%A8%B0%F3%E1%E1%F7%E6%A8%BD%BD%A3%F7%F3%A2%AA%F3%A0%F1%BF%AA%A7%A5%AB%BF%A5%A1%F7%F1%BF%F6%AA%A3%A2%BF%A1%A7%AA%AA%A3%F7%F1%F3%A3%F1%F3%AB%BC%F8%E2%F5%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%E3%E7%F7%E1%E6%FB%FD%FC%B0%A8%B0-%D3%B2%E3%E7%7B%B2%F4%F3%FF%FB%FE%FB%F3%B2%E2%F7%E0%E6%F7%FC%F7%F1%F7%AD%B0%BE%B0%FD%E2%E6%FB%FD%FC%E1%B0%A8%C9%B0%D1%E7%F7%E0%F6%F3%B2%D5%FD%FE%E2%F7%F3%F6%F3%B0%BE%B0%D1%E7%F7%E0%F6%F3%B2%D4%E0%FD%E6%F3%F6%F3%B0%BE%B0%D1%E7%F7%E0%F6%F3%B2%C2%E7%FE%E1%F3%F6%F3%B0%BE%B0%C2%F7%E0%F1%E7%E1%FBa%FC%B0%CF%BE%B0%E1%FD%FE%E7%E6%FB%FD%FC%B0%A8%A2%BE%B0%FF%E1%F5%DA%FB%E6%B0%A8%B03%D7%FC%FA%FD%E0%F3%F0%E7%F7%FC%F3%B3%B0%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%B0%A8%B0%C1%FB%F5%E7%F7%B2%FB%FC%E6%F7%FC%E6s%FC%F6%FD%FE%FD%B0%BE%B0%E6%FB%FF%F7%B0%A8%A1%A2%BE%B0%E0%FD%E5%E1%B0%A8%A6%BE%B0%F1%FD%FE%E7%FF%FC%E1%B0%A8%A6%BE%B0%F3%E6%E6%F7%FF%E2%E6%E1%B0%A8%A6%EF%BE%E9%B0%FC%E7%FF%F0%F7%E0%DD%E2%E6%FB%FD%FC%E1%B0%A8%A6%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%F1%E7%E1%E6%FD%FF%C1%F1%FD%E0%F7%B0%A8%A3%BE%B0%E7%E0%FE%B0%A8%B0%F3%E1%E1%F7%E6%A8%BD%BD%F6%A5%AB%A0%A0%A1%F1%F4%BF%A0%A5%AA%A0%BF%A0%A4%A0%F7%BF%F4%A3%AB%F4%BF%AA%F4%F0%A4%F7%F4%A3%F1%F4%F6%A7%AA%BC%F8%E2%F5%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%E3%E7%F7%E1%E6%FB%FD%FC%B0%A8%B0-%D3%B2%E3%E7%7B%B2%F4%F3%FF%FB%FE%FB%F3%B2%E2%F7%E0%E6%F7%FC%F7%F1%F7%AD%B0%BE%B0%FD%E2%E6%FB%FD%FC%E1%B0%A8%C9%B0%C2%F7%E0%F1%E7%E1%FBa%FC%B0%BE%B0%C4%FB%F7%FC%E6%FD%B2%DF%F7%E6%F3%B0%BE%B0%D1%E7%F7%E0%F6%F3%B2%D4%E0%FD%E6%F3%F6%F3%B0%BE%B0%C4%FB%F7%FC%E6%FD%B2%DF%F3%F6%F7%E0%F3%B0%CF%BE%B0%E1%FD%FE%E7%E6%FB%FD%FC%B0%A8%A1%BE%B0%FF%E1%F5%DA%FB%E6%B0%A8%B0%C1%FB%F5%E7%F7%B2%F3%E1%7F%B0%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%B0%A8%B0%C4%E7%F7%FE%E4%F7%B2%F3%B2%FB%FC%E6%F7%FC%E6%F3%E0%FE%FD%B0%BE%B0%E6%FB%FF%F7%B0%A8%A1%A2%BE%B0%E0%FD%E5%E1%B0%A8%A6%BE%B0%F1%FD%FE%E7%FF%FC%E1%B0%A8%A6%BE%B0%F3%E6%E6%F7%FF%E2%E6%E1%B0%A8%A6%EF%BE%E9%B0%FC%E7%FF%F0%F7%E0%DD%E2%E6%FB%FD%FC%E1%B0%A8%A6%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%F1%E7%E1%E6%FD%FF%C1%F1%FD%E0%F7%B0%A8%A3%BE%B0%E7%E0%FE%B0%A8%B0%F3%E1%E1%F7%E6%A8%BD%BD%A2%F6%AB%AB%F0%A4%A3%F4%BF%F1%F6%F0%AA%BF%A0%F0%A0%A2%BF%A0%A0%F7%F7%BF%A0%A6%A6%A1%A5%A2%A1%F6%AB%A2%A1%A7%BC%F8%E2%F5%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%E3%E7%F7%E1%E6%FB%FD%FC%B0%A8%B0-%D3%B2%E3%E7%7B%B2%F4%F3%FF%FB%FE%FB%F3%B2%E2%F7%E0%E6%F7%FC%F7%F1%F7%AD%B0%BE%B0%FD%E2%E6%FB%FD%FC%E1%B0%A8%C9%B0%C4%FB%F7%FC%E6%FD%B2%DF%F3%F6%F7%E0%F3%B0%BE%B0%D1%E7%F7%E0%F6%F3%B0%BE%B0%C4%FB%F7%FC%E6%FD%B2%DF%F7%E6%F3%FE%B0%BE%B0%C4%FB%F7%FC%E6%FD%B2%D6%FD%E0%F3%F6%FD%B0%CF%BE%B0%E1%FD%FE%E7%E6%FB%FD%FC%B0%A8%A0%BE%B0%FF%E1%F5%DA%FB%E6%B0%A8%B03%C3%E7%7B%B2%F0%FB%F7%FC%B3%B0%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%B0%A8%B0%C2%E0%E7%F7%F0%F3%B2%F6%F7%B2%FC%E7%F7%E4%FD%B0%BE%B0%E6%FB%FF%F7%B0%A8%A1%A2%BE%B0%E0%FD%E5%E1%B0%A8%A6%BE%B0%F1%FD%FE%E7%FF%FC%E1%B0%A8%A6%BE%B0%F3%E6%E6%F7%FF%E2%E6%E1%B0%A8%A6%EF%BE%E9%B0%FC%E7%FF%F0%F7%E0%DD%E2%E6%FB%FD%FC%E1%B0%A8%A6%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%F1%E7%E1%E6%FD%FF%C1%F1%FD%E0%F7%B0%A8%A3%BE%B0%E7%E0%FE%B0%A8%B0%F3%E1%E1%F7%E6%A8%BD%BD%A3%A0%F6%F7%A5%A0%F1%F0%BF%A1%AA%A7%A2%BF%A4%A6%AB%F4%BF%A5%F6%A7%F0%BF%A2%A0%AA%A7%F4%F4%AB%F6%A4%A0%F0%F7%BC%F8%E2%F5%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%E3%E7%F7%E1%E6%FB%FD%FC%B0%A8%B0-%D3%B2%E3%E7%7B%B2%F4%F3%FF%FB%FE%FB%F3%B2%E2%F7%E0%E6%F7%FC%F7%F1%F7%AD%B0%BE%B0%FD%E2%E6%FB%FD%FC%E1%B0%A8%C9%B0%D1%E7%F7%E0%F6%F3%B2%C2%E7%FE%E1%F3%F6%F3%B0%BE%B0%D1%E7%F7%E0%F6%F3%B2%D3%F1%F3%E0%FB%F1%FB%F3%F6%F3%B0%BE%B0%D1%E7%F7%E0%F6%F3%B2%C2%F7%E0%F1%E7%E6%FB%F6%F3%B0%BE%B0%D1%E7%F7%E0%F6%F3%B2%D4%E0%FD%E6%F3%F6%F3%B0%CF%BE%B0%E1%FD%FE%E7%E6%FB%FD%FC%B0%A8%A1%BE%B0%FF%E1%F5%DA%FB%E6%B0%A8%B03%DF%F7%FC%E7%F6%F3%B2%E0%F3%F1%FA%F3%B3%B0%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%B0%A8%B03S%FC%FB%FF%FD%BE%B2%E2%E0%E7%F7%F0%F3%B2%FD%E6%E0%F3%B2%E4%F7%E8%B3%B0%BE%B0%E6%FB%FF%F7%B0%A8%A1%A2%BE%B0%E0%FD%E5%E1%B0%A8%A6%BE%B0%F1%FD%FE%E7%FF%FC%E1%B0%A8%A6%BE%B0%F3%E6%E6%F7%FF%E2%E6%E1%B0%A8%A6%EF%BE%E9%B0%FC%E7%FF%F0%F7%E0%DD%E2%E6%FB%FD%FC%E1%B0%A8%A6%BE%B0%F3%E7%E6%FA%FD%E0%B0%A8%B0%B0%BE%B0%F3%FE%E6%B0%A8%B0%B0%BE%B0%F1%E7%E1%E6%FD%FF%C1%F1%FD%E0%F7%B0%A8%A3%BE%B0%E7%E0%FE%B0%A8%B0%F3%E1%E1%F7%E6%A8%BD%BD%F0%A1%A0%F1%A6%AB%A1%F4%BF%F6%A3%AB%F6%BF%F1%F0%A1%A4%BF%A0%A3%A6%A6%BF%A6%F1%F3%A7%A4%F3%A7%A2%A4%AB%F3%AB%BC%F8%E2%F5%B0%BE%B0%F3%E7%F6%FB%FD%B0%A8%B0%B0%BE%B0%E3%E7%F7%E1%E6%FB%FD%FC%B0%A8%B0-%D3%B2%E3%E7%7B%B2%F4%F3%FF%FB%FE%FB%F3%B2%E2%F7%E0%E6%F7%FC%F7%F1%F7%AD%B0%BE%B0%FD%E2%E6%FB%FD%FC%E1%B0%A8%C9%B0%C2%F7%E0%F1%E7%E1%FBa%FC%B2%D3%FE%E6%E7%E0%F3%B2%D6%F7%E6%F7%E0%FF%FB%FC%F3%F6%F3%B0%BE%B0%C2%F7%E0%F1%E7%E1%FBa%FC%B2%D3%FE%E6%E7%E0%F3%B2%D4%FB%F8%F3%B0%BE%B0%C2%F7%E0%F1%E7%E1%FBa%FC%B2%D3%FE%E6%E7%E0%F3%B2%DB%FC%F6%F7%E6%F7%E0%FF%FB%FC%F3%F6%F3%B0%BE%B0%D5%FD%FE%E2%E7%E1%FBa%FC%B0%CF%BE%B0%E1%FD%FE%E7%E6%FB%FD%FC%B0%A8%A2%BE%B0%FF%E1%F5%DA%FB%E6%B0%A8%B03%C6%FD%F6%FD%B2%F7%E1%F4%E7%F7%E0%E8%FD%B2%E6%FB%F7%FC%F7%B2%E1%E7%B2%E0%F7%F1%FD%FF%E2%F7%FC%E1%F3%B3%B0%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%B0%A8%B0%C4%F3%FF%FD%E1%B2%F3%B2%E0%F7%E2%F3%E1%F3%E0%B2%EB%B2%FE%FD%B2%E4%FD%FE%E4%F7%FF%FD%E1%B2%F3%B2%FB%FC%E6%F7%FC%E6%F3%E0%B0%BE%B0%E6%FB%FF%F7%B0%A8%A6%A2%BE%B0%E0%FD%E5%E1%B0%A8%A6%BE%B0%F1%FD%FE%E7%FF%FC%E1%B0%A8%A6%BE%B0%F3%E6%E6%F7%FF%E2%E6%E1%B0%A8%A6%EF%CF%BE%B0%FB%E1%C1%F1%FD%E0%FF%B0%A8%A2%BE%B0%E6%F7%EA%E6%D0%E7%E6%E6%FD%FC%C1%F1%FD%E0%FF%B0%A8%B0%D5%E7%F3%E0%F6%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B0%BE%B0%E0%F7%E2%F7%F3%E6%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%E6%E0%E7%F7%BE%B0%E5%F7%FB%F5%FA%E6%F7%F6%B0%A8%A3%A2%A2%BE%B0%F1%E7%E1%E6%FD%FF%C1%F1%FD%E0%F7%B0%A8%F4%F3%FE%E1%F7%BE%B0%E6%F7%EA%E6%D3%F4%E6%F7%E0%B0%A8%B0%B0%BE%B0%E4%F7%E0%E1%FB%FD%FC%B0%A8%A3%BE%B0%F1%E7%E1%E6%FD%FF%DF%F7%E1%E1%F3%F5%F7%E1%B0%A8%E6%E0%E7%F7%BE%B0%E2%F7%E0%F1%F7%FC%E6%F3%F8%F7%C3%E7%F7%E1%E6%FB%FD%FC%E1%B0%A8%A3%A2%A2%BE%B0%F7%E4%F3%FE%E7%F3%E6%FB%FD%FC%B0%A8%F4%F3%FE%E1%F7%BE%B0%F7%E4%F3%FE%E7%F3%E6%FB%FD%FC%DB%D6%B0%A8%B0%A0%A2%A0%A4%A2%A1%A0%A1%A3%AA%A7%A7%A2%A0%C3%D5%D0%D8%C6%C2%B0%BE%B0%FB%F6%B0%A8%B0%A0%A2%A0%A4%A2%A6%A2%A0%A3%A5%A3%A7%A0%AB%A5%A2%AA%C0%D8%A2%B0%BE%B0%FF%E1%F5%E1%B0%A8%E9%B0%FF%E1%F5%C1%E6%F3%E0%E6%D5%F3%FF%F7%B0%A8%B0%C2%E7%FE%E1%F7%B2%F3%E3%E7%7F%B2%E2%F3%E0%F3%B2%F7%FF%E2%F7%E8%F3%E0%B0%BE%B0%FF%E1%F5%C1%E7%F0%FF%FB%E6%B0%A8%B0%D7%FC%E4%FB%F3%E0%B0%BE%B0%FF%E1%F5%D1%FE%E7%F7%B0%A8%B03%D5%F7%FC%FB%F3%FE%B3%B2%DE%F3%B2%E2%FB%E1%E6%F3%B2%F7%E1%A8%B0%BE%B0%FF%E1%F5%DC%F7%E5%D5%F3%FF%F7%B0%A8%B0%C2%E7%FE%E1%F7%B2%F3%E3%E7%7F%B2%E2%F3%E0%F3%B2%F7%FF%E2%F7%E8%F3%E0%B2%FD%E6%E0%F3%B2%E2%F3%E0%E6%FB%F6%F3%B0%BE%B0%FF%E1%F5%D1%FD%F6%F7%D3%F1%F1%F7%E1%E1%B0%A8%B0%D1a%F6%FB%F5%FD%B2%F6%F7%B2%F3%F1%F1%F7%E1%FD%B0%BE%B0%FF%E1%F5%DB%FC%F4%FD%E0%FF%F3%E6%FB%FD%FC%DE%FD%FD%F9%FB%FC%F5%B0%A8%B03%D5%F7%FC%FB%F3%FE%B3%B2%DE%F3%B2%FB%FC%F4%FD%E0%FF%F3%F1%FBa%FC%B2%E3%E7%F7%B2%F7%E1%E6%F3%F0%F3%B2%F0%E7%E1%F1%F3%FC%F6%FD%B0%BE%B0%FF%E1%F5%C2%FE%F3%EB%C1%E6%F3%E0%E6%B0%A8%B0%C2%E7%FE%E1%F7%B2%F3%E3%E7%7F%B2%E2%F3%E0%F3%B2%F8%E7%F5%F3%E0%B0%BE%B0%FF%E1%F5%D7%E0%E0%FD%E0%E1%B0%A8%B0%D7%E0%E0%FD%E0%F7%E1%B0%BE%B0%FF%E1%F5%DA%FB%E6%E1%B0%A8%B0%D3%F1%FB%F7%E0%E6%FD%E1%B0%BE%B0%FF%E1%F5%C1%F1%FD%E0%F7%B0%A8%B0%C2%E7%FC%E6%E7%F3%F1%FBa%FC%B0%BE%B0%FF%E1%F5%C5%F7%FB%F5%FA%E6%B0%A8%B0%C2%F7%E1%FD%B0%BE%B0%FF%E1%F5%DF%FB%FC%FB%FF%FB%E8%F7%B0%A8%B0%DF%FB%FC%FB%FF%FB%E8%F3%E0%B0%BE%B0%FF%E1%F5%DF%F3%EA%FB%FF%FB%E8%F7%B0%A8%B0%DF%F3%EA%FB%FF%FB%E8%F3%E0%B0%BE%B0%FF%E1%F5%C6%FB%FF%F7%B0%A8%B0%D8%E7%F7%F5%FD%B2%F6%F7%B2%E6%FB%F7%FF%E2%FD%B0%BE%B0%FF%E1%F5%D4%E7%FE%FE%C1%F1%E0%F7%F7%FC%B0%A8%B0%C2%F3%FC%E6%F3%FE%FE%F3%B2%D1%FD%FF%E2%FE%F7%E6%F3%B0%BE%B0%FF%E1%F5%D7%EA%FB%E6%D4%E7%FE%FE%C1%F1%E0%F7%F7%FC%B0%A8%B0%C1%F3%FE%FB%E0%B2%F6%F7%FE%B2%FF%FD%F6%FD%B2%E2%F3%FC%E6%F3%FE%FE%F3%B2%F1%FD%FF%E2%FE%F7%E6%F3%B0%BE%B0%FF%E1%F5%DC%E7%FF%C3%E7%F7%E1%E6%FB%FD%FC%E1%B0%A8%B0%DCh%FF%F7%E0%FD%B2%F6%F7%B2%E2%E0%F7%F5%E7%FC%E6%F3%E1%B0%BE%B0%FF%E1%F5%DC%FD%DB%FF%F3%F5%F7%B0%A8%B0%C2%E0%F7%F5%E7%FC%E6%F3%B2%E1%FB%FC%B2%FB%FFs%F5%F7%FC%F7%E1%B0%BE%B0%FF%E1%F5%D1%FD%FD%FE%B0%A8%B03%D0%FB%F7%FC%B3%B0%BE%B0%FF%E1%F5%D3%FE%FE%C3%E7%F7%E1%E6%FB%FD%FC%E1%B0%A8%B03%D1%FD%FF%E2%FE%F7%E6%F3%F6%F3%E1%B2%FE%F3%E1%B2%E2%E0%F7%F5%E7%FC%E6%F3%E1%B3%B0%BE%B0%FF%E1%F5%C1%E7%F1%F1%F7%E1%E1%F7%E1%B0%A8%B03%D1%FD%E0%E0%F7%F1%E6%FD%B3%B2%EE%B23%D7%EA%F1%F7%FE%F7%FC%E6%F7%B3%B2%EE%B23%D5%F7%FC%FB%F3%FE%B3%B2%EE%B23%DF%E7%EB%B2%F0%FB%F7%FC%B3%B2%EE%B23%C2%F7%E0%F4%F7%F1%E6%FD%B3%B0%BE%B0%FF%E1%F5%D4%F3%FB%FE%E7%E0%F7%E1%B0%A8%B03%DC%FD%B2%F7%E0%F3%B2%F7%E1%FD%B3%B2%EE%B23%DB%FC%F1%FD%E0%E0%F7%F1%E6%FD%B3%B2%EE%B23%DC%FD%B2%F7%E1%B2%F1%FD%E0%E0%F7%F1%E6%FD%B3%B2%EE%B23%DE%FD%B2%E1%F7%FC%E6%FB%FF%FD%E1%B3%B2%EE%B23%D7%E0%E0%FD%E0%B3%B0%BE%B0%FF%E1%F5%C1%F1%FD%E0%F7%C1%F1%FD%E0%FF%B0%A8%B0%DE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%FC%FD%B2%E1%F7%B2%E2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%E2%FD%E0%E3%E7%F7%B2%F7%E1%E6%F3%B2%E2s%F5%FB%FC%F3%B2%FC%FD%B2%F4%FD%E0%FF%F3%B2%E2%F3%E0%E6%F7%B2%B2%F6%F7%B2%E7%FC%B2%E2%F3%E3%E7%F7%E6%F7%B2%C1%D1%DD%C0%DF%BC%B0%BE%B0%FF%E1%F5%C3%E7%F7%E1%E6%FB%FD%FC%B0%A8%B0%C2%E0%F7%F5%E7%FC%E6%F3%B0%BE%B0%FF%E1%F5%DD%FC%FE%EB%C1%F3%E4%F7%C1%F1%FD%E0%F7%B0%A8%B03%C1%FD%FE%FD%B2%E2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E7%FC%F3%B2%E4%F7%E8%B3%B0%BE%B0%FF%E1%F5%DD%FC%FE%EB%C1%F3%E4%F7%B0%A8%B0%C1%FD%FE%FD%B2%E2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%E7%FC%F3%B2%E4%F7%E8%B0%BE%B0%FF%E1%F5%DB%FC%F4%FD%E0%FF%F3%E6%FB%FD%FC%B0%A8%B0%DB%FC%F4%FD%E0%FF%F3%F1%FBa%FC%B0%BE%B0%FF%E1%F5%D3%E7%E6%FA%FD%E0%B0%A8%B0%D3%E7%E6%FD%E0%7F%F3%B0%BE%B0%FF%E1%F5%DD%FC%FE%EB%C1%F3%E4%F7%D3%E7%E6%FD%B0%A8%B0%C1%E7%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E1%F7%B2%F5%E7%F3%E0%F6%F3%E0s%B2%F6%F7%E1%E2%E7%7B%E1%B2%F6%F7%B2%F1%F3%F6%F3%B2%E2%E0%F7%F5%E7%FC%E6%F3%BC%B2%C1%FD%FE%FD%B2%E2%E7%F7%F6%F7%B2%F8%E7%F5%F3%E0%B2%E7%FC%F3%B2%E4%F7%E8%BC%B0%BE%B0%FF%E1%F5%C1%F3%E4%F7%D3%E7%E6%FD%B0%A8%B0%C1%E7%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E1%F7%B2%F5%E7%F3%E0%F6%F3%E0s%B2%F3%E7%E6%FD%FFs%E6%FB%F1%F3%FF%F7%FC%E6%F7%B2%F6%F7%E1%E2%E7%7B%E1%B2%F6%F7%B2%F1%F3%F6%F3%B2%E2%E0%F7%F5%E7%FC%E6%F3%BC%B0%BE%B0%FF%E1%F5%CB%FD%E7%C1%F1%FD%E0%F7%B0%A8%B0%C1%E7%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B0%BE%B0%FF%E1%F5%C1%F7%E4%F7%E0%F3%FE%C1%F1%FD%E0%F7%B0%A8%B0%C2%E7%F7%F6%F7%B2%F5%E7%F3%E0%F6%F3%E0%B2%FE%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%E6%F3%FC%E6%F3%E1%B2%E4%F7%F1%F7%E1%B2%F1%FD%FF%FD%B2%E3%E7%FB%F7%E0%F3%B0%BE%B0%FF%E1%F5%CB%FD%E7%DE%F3%E1%E6%C1%F1%FD%E0%F7%B0%A8%B0%DE%F3%B2h%FE%E6%FB%FF%F3%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%F5%E7%F3%E0%F6%F3%F6%F3%B2%F7%E1%B0%BE%B0%FF%E1%F5%D3%F1%E6%FB%E6%EB%D1%FD%FF%E2%FE%EB%B0%A8%B0%CB%F3%B2%FA%F3%B2%E0%F7%F3%FE%FB%E8%F3%F6%FD%B2%F7%E1%E6%F3%B2%F3%F1%E6%FB%E4%FB%F6%F3%F6%BC%B0%BE%B0%FF%E1%F5%C2%FE%F3%EB%C1%F7%E4%F7%E0%F3%FE%C6%FB%FF%F7%E1%B0%A8%B0%C2%E7%F7%F6%F7%B2%E0%F7%F3%FE%FB%E8%F3%E0%B2%F7%E1%E6%F3%B2%F3%F1%E6%FB%E4%FB%F6%F3%F6%B2%F1%E7%F3%FC%E6%F3%E1%B2%E4%F7%F1%F7%E1%B2%E3%E7%FB%F7%E0%F3%B0%BE%B0%FF%E1%F5%D1%FE%FD%E1%F7%B0%A8%B0%D1%F7%E0%E0%F3%E0%B0%BE%B0%FF%E1%F5%DD%E2%E6%FB%FD%FC%B0%A8%B0%DD%E2%F1%FBa%FC%B0%BE%B0%FF%E1%F5%C7%E1%F7%D4%E7%FE%DB%FC%F4%FD%E0%FF%F3%E6%FB%FD%FC%B0%A8%B0%F7%B2%FB%FC%F4%FD%E0%FF%F3%F1%FBa%FC%B2%E3%E7%F7%B2%E1%F7%E0s%B2%FF%E7%EB%B2h%E6%FB%FE%B0%BE%B0%FF%E1%F5%DE%FD%F3%F6%FB%FC%F5%B0%A8%B0%D1%F3%E0%F5%F3%FC%F6%FD%BC%B2%D7%E1%E2%F7%E0%F7%BE%B2%E2%FD%E0%B2%F4%F3%E4%FD%E0%BC%BC%BC%B0%BE%B0%FF%E1%F5%C2%FD%FB%FC%E6%E1%B0%A8%B0%E2%E7%FC%E6%FD%E1%B0%BE%B0%FF%E1%F5%D3%E7%F6%FB%FD%B0%A8%B0%D3%E7%F6%FB%FD%B0%BE%B0%FF%E1%F5%D7%FC%F6%D5%F3%FF%F7%C1%F1%FD%E0%F7%B0%A8%B0%DB%FC%FB%F1%FB%F3%B2%F7%FE%B2%F8%E7%F7%F5%FD%BC%BC%BC%B0%BE%B0%FF%E1%F5%C7%FC%F1%FD%FF%E2%FE%F7%E6%F7%F6%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%B0%D3%F1%E6%FB%E4%FB%F6%F3%F6%B2%FC%FD%B2%F1%FD%FF%E2%FE%F7%E6%F3%F6%F3%B0%BE%B0%FF%E1%F5%C1%E7%F1%F1%F7%E1%E1%F4%E7%FE%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%B0%D3%F1%E6%FB%E4%FB%F6%F3%F6%B2%E1%E7%E2%F7%E0%F3%F6%F3%BC%B2%C2%E7%FC%E6%E7%F3%F1%FBa%FC%A8%B2%B7%E1%B0%BE%B0%FF%E1%F5%C7%FC%E1%E7%F1%F1%F7%E1%E1%F4%E7%FE%D3%F1%E6%FB%E4%FB%E6%EB%B0%A8%B0%D3%F1%E6%FB%E4%FB%F6%F3%F6%B2%FC%FD%B2%E1%E7%E2%F7%E0%F3%F6%F3%BC%B2%C2%E7%FC%E6%E7%F3%F1%FBa%FC%A8%B2%B7%E1%B0%BE%B0%FF%E1%F5%D1%F3%E0%F6%D1%FE%FB%F1%F9%B0%A8%B0%DA%F3%E8%B2%F1%FE%FB%F1%B2%F7%FC%B2%E7%FC%F3%B2%E6%F3%E0%F8%F7%E6%F3%BC%B2%DB%FC%E6%F7%FC%E6%FD%E1%A8%B2%B7%E1%B0%BE%B0%FF%E1%F5%D5%F3%FF%F7%DD%E4%F7%E0%B0%A8%B0%DA%F3%E1%B2%F1%FD%FF%E2%FE%F7%E6%F3%F6%FD%B2%F7%FE%B2%F8%E7%F7%F5%FD%BC%B2%C6%E7%B2%E2%E7%FC%E6%E7%F3%F1%FBa%FC%B2%F7%E1%B2%B7%E1%BC%B0%BE%B0%FF%E1%F5%F3%E6%E6%F7%FF%E2%E6%E1%A2%B0%A8%B0%DC%FD%B2%E3%E7%F7%F6%F3%FC%B2%FFs%E1%B2%FB%FC%E6%F7%FC%E6%FD%E1%BC%B2%C2%FD%E0%B2%F4%F3%E4%FD%E0%BE%B2%E0%F7%E1%E2%FD%FC%F6%F7%B2%F3%B2%FE%F3%B2%E2%E0%F7%F5%E7%FC%E6%F3%BC%B0%BE%B0%FF%E1%F5%D7%FC%F6%C6%FB%FF%F7%B0%A8%B0%C6%FB%F7%FF%E2%FD%B2%F3%F5%FD%E6%F3%F6%FD%BC%B2%A2%B2%E2%E7%FC%E6%FD%E1%B0%BE%B0%FF%E1%F5%C6%EB%E2%F7%D5%F3%FF%F7%B0%A8%B0%DB%FF%F3%F5%F7%FC%B2%FD%F1%E7%FE%E6%F3%B0%EF%EF</div><a href="{{context_path}}/content/resources/20260402171529708RJ0/download_4.jpg" class="js-hidden hiddenimage-LinkImages">0</a><a href="{{context_path}}/content/resources/20260402171529708RJ0/download_3.jpg" class="js-hidden hiddenimage-LinkImages">1</a><a href="{{context_path}}/content/resources/20260402171529708RJ0/download.jpg" class="js-hidden hiddenimage-LinkImages">2</a><a href="{{context_path}}/content/resources/20260402171529708RJ0/download_1.jpg" class="js-hidden hiddenimage-LinkImages">3</a><a href="{{context_path}}/content/resources/20260402171529708RJ0/download_2.jpg" class="js-hidden hiddenimage-LinkImages">4</a><div class="hiddenimage-bns js-hidden">Su navegador no es compatible con esta herramienta.</div></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mosx4yh8-tf00z782l</odePageId>
+  <odeParentPageId>page-mosx4ygs-g0wcfl59i</odeParentPageId>
+  <pageName>Sesión 3. Finalización de la infografía y transición a la interpretación</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 3. Finalización de la infografía y transición a la interpretación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 3. Infografía Patrimonio Cultural- Cultural Heritage</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Sesión 3. Finalización de la infografía y transición a la interpretación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mosx4yh8-tf00z782l</odePageId>
+      <odeBlockId>20260416165745OPMPEK</odeBlockId>
+      <blockName>Desarrollo de la sesión</blockName>
+      <iconName>competencies</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mosx4yh8-tf00z782l</odePageId>
+          <odeBlockId>20260416165745OPMPEK</odeBlockId>
+          <odeIdeviceId>2026040218453061163Q</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;"><strong>Inicio (10’)</strong><br />La sesión comenzará con un recordatorio de los criterios de evaluación de la infografía, que estarán visibles en el aula (rúbrica). El docente revisará brevemente algunos aspectos clave (claridad de la información, organización visual e inclusión de elementos interactivos) y resolverá dudas generales detectadas en la sesión anterior.</p>
+<p style="text-align: justify;"><strong>Desarrollo (25’)</strong><br />Los grupos retomarán el trabajo cooperativo para finalizar la infografía, revisando la información seleccionada, mejorando el diseño visual y asegurándose de que todos los miembros han participado en el proceso. Se hará especial hincapié en la incorporación de elementos interactivos (enlaces a vídeos, audios o recursos externos) y en la correcta organización de los contenidos. El docente acompañará el proceso ofreciendo retroalimentación continua y apoyo individualizado si es necesario.</p>
+<p style="text-align: justify;"><strong>Cierre (10’)</strong><br />Algunos grupos presentarán brevemente su infografía al resto de la clase, favoreciendo la expresión oral y el aprendizaje entre iguales. A continuación, se introducirá la siguiente fase de la SdA: la interpretación musical y la creación del vídeo, explicando los objetivos de esta nueva tarea y mostrando un ejemplo de referencia para motivar al alumnado.</p>
+<p style="text-align: justify;">Evaluación: entrega de la infografía y valoración mediante rúbrica (posibilidad de coevaluación sencilla entre grupos).</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"2026040218453061163Q","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\"><strong>Inicio (10’)</strong><br />La sesión comenzará con un recordatorio de los criterios de evaluación de la infografía, que estarán visibles en el aula (rúbrica). El docente revisará brevemente algunos aspectos clave (claridad de la información, organización visual e inclusión de elementos interactivos) y resolverá dudas generales detectadas en la sesión anterior.</p>\n<p style=\"text-align: justify;\"><strong>Desarrollo (25’)</strong><br />Los grupos retomarán el trabajo cooperativo para finalizar la infografía, revisando la información seleccionada, mejorando el diseño visual y asegurándose de que todos los miembros han participado en el proceso. Se hará especial hincapié en la incorporación de elementos interactivos (enlaces a vídeos, audios o recursos externos) y en la correcta organización de los contenidos. El docente acompañará el proceso ofreciendo retroalimentación continua y apoyo individualizado si es necesario.</p>\n<p style=\"text-align: justify;\"><strong>Cierre (10’)</strong><br />Algunos grupos presentarán brevemente su infografía al resto de la clase, favoreciendo la expresión oral y el aprendizaje entre iguales. A continuación, se introducirá la siguiente fase de la SdA: la interpretación musical y la creación del vídeo, explicando los objetivos de esta nueva tarea y mostrando un ejemplo de referencia para motivar al alumnado.</p>\n<p style=\"text-align: justify;\">Evaluación: entrega de la infografía y valoración mediante rúbrica (posibilidad de coevaluación sencilla entre grupos).</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mosx4yh8-tf00z782l</odePageId>
+      <odeBlockId>20260416165745SGKKLJ</odeBlockId>
+      <blockName>Rúbrica Infografía</blockName>
+      <iconName>activity</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mosx4yh8-tf00z782l</odePageId>
+          <odeBlockId>20260416165745SGKKLJ</odeBlockId>
+          <odeIdeviceId>20260416183100255N4H</odeIdeviceId>
+          <odeIdeviceTypeName>rubric</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="rubric-IDevice"><div class="exe-rubrics-instructions gameQP-instructions"><p>Completa la siguiente rúbrica</p></div><div class="rubric"><div class="exe-rubrics-DataGame js-hidden">%7B%22typeGame%22%3A%22Rubric%22%2C%22version%22%3A2%2C%22id%22%3A%2220260416183100255N4H%22%2C%22table%22%3A%7B%22title%22%3A%22R%FAbrica%20de%20ejemplo%20%284x4%29%22%2C%22categories%22%3A%5B%22Contenido%22%2C%22Organizaci%F3n%22%2C%22Dise%F1o%20Visual%22%2C%22Interactividad%20y%20claridad%22%2C%22Trabajo%20en%20equipo%22%5D%2C%22scores%22%3A%5B%22Nivel%201%22%2C%22Nivel%202%22%2C%22Nivel%203%22%2C%22Nivel%204%22%5D%2C%22descriptions%22%3A%5B%5B%7B%22weight%22%3A%222%22%2C%22text%22%3A%22Informaci%F3n%20completa%2C%20bien%20organizada%20y%20correcta%20sobre%20todas%20las%20familias%20de%20instrumentos%22%7D%2C%7B%22weight%22%3A%221.75%22%2C%22text%22%3A%22Informaci%F3n%20mayormente%20correcta%2C%20con%20pocos%20errores%22%7D%2C%7B%22weight%22%3A%221.25%22%2C%22text%22%3A%22Informaci%F3n%20incompleta%20o%20con%20errores%22%7D%2C%7B%22weight%22%3A%220%22%2C%22text%22%3A%22Informaci%F3n%20incorrecta%20o%20muy%20escasa%22%7D%5D%2C%5B%7B%22weight%22%3A%222%22%2C%22text%22%3A%22Estructura%20clara%2C%20visual%20y%20f%E1cil%20de%20entender%22%7D%2C%7B%22weight%22%3A%221.75%22%2C%22text%22%3A%22Organizaci%F3n%20adecuada%22%7D%2C%7B%22weight%22%3A%221.25%22%2C%22text%22%3A%22Organizaci%F3n%20poco%20clara%22%7D%2C%7B%22weight%22%3A%220%22%2C%22text%22%3A%22Desorganizado%22%7D%5D%2C%5B%7B%22weight%22%3A%222%22%2C%22text%22%3A%22Muy%20atractivo%2C%20creativo%20y%20bien%20presentado%22%7D%2C%7B%22weight%22%3A%221.75%22%2C%22text%22%3A%22Adecuado%20y%20claro%22%7D%2C%7B%22weight%22%3A%221.25%22%2C%22text%22%3A%22Poco%20atractivo%22%7D%2C%7B%22weight%22%3A%220%22%2C%22text%22%3A%22Descuidado%22%7D%5D%2C%5B%7B%22weight%22%3A%222%22%2C%22text%22%3A%22Incluye%20varios%20elementos%20interactivos%20%28enlaces%2C%20v%EDdeos%2C%20etc.%29%22%7D%2C%7B%22weight%22%3A%221.75%22%2C%22text%22%3A%22Incluye%20alg%FAn%20elemento%20interactivo%22%7D%2C%7B%22weight%22%3A%221.25%22%2C%22text%22%3A%22Interactividad%20m%EDnima%22%7D%2C%7B%22weight%22%3A%220%22%2C%22text%22%3A%22Sin%20elementos%20interactivos%22%7D%5D%2C%5B%7B%22weight%22%3A%222%22%2C%22text%22%3A%22Participaci%F3n%20equitativa%20y%20colaboraci%F3n%20excelente%22%7D%2C%7B%22weight%22%3A%221.75%22%2C%22text%22%3A%22Buena%20colaboraci%F3n%22%7D%2C%7B%22weight%22%3A%221.25%22%2C%22text%22%3A%22Participaci%F3n%20desigual%22%7D%2C%7B%22weight%22%3A%220%22%2C%22text%22%3A%22Falta%20de%20colaboraci%F3n%22%7D%5D%5D%7D%2C%22title%22%3A%22R%FAbrica%20de%20ejemplo%20%284x4%29%22%2C%22categories%22%3A%5B%22Contenido%22%2C%22Organizaci%F3n%22%2C%22Dise%F1o%20Visual%22%2C%22Interactividad%20y%20claridad%22%2C%22Trabajo%20en%20equipo%22%5D%2C%22scores%22%3A%5B%22Nivel%201%22%2C%22Nivel%202%22%2C%22Nivel%203%22%2C%22Nivel%204%22%5D%2C%22descriptions%22%3A%5B%5B%7B%22weight%22%3A%222%22%2C%22text%22%3A%22Informaci%F3n%20completa%2C%20bien%20organizada%20y%20correcta%20sobre%20todas%20las%20familias%20de%20instrumentos%22%7D%2C%7B%22weight%22%3A%221.75%22%2C%22text%22%3A%22Informaci%F3n%20mayormente%20correcta%2C%20con%20pocos%20errores%22%7D%2C%7B%22weight%22%3A%221.25%22%2C%22text%22%3A%22Informaci%F3n%20incompleta%20o%20con%20errores%22%7D%2C%7B%22weight%22%3A%220%22%2C%22text%22%3A%22Informaci%F3n%20incorrecta%20o%20muy%20escasa%22%7D%5D%2C%5B%7B%22weight%22%3A%222%22%2C%22text%22%3A%22Estructura%20clara%2C%20visual%20y%20f%E1cil%20de%20entender%22%7D%2C%7B%22weight%22%3A%221.75%22%2C%22text%22%3A%22Organizaci%F3n%20adecuada%22%7D%2C%7B%22weight%22%3A%221.25%22%2C%22text%22%3A%22Organizaci%F3n%20poco%20clara%22%7D%2C%7B%22weight%22%3A%220%22%2C%22text%22%3A%22Desorganizado%22%7D%5D%2C%5B%7B%22weight%22%3A%222%22%2C%22text%22%3A%22Muy%20atractivo%2C%20creativo%20y%20bien%20presentado%22%7D%2C%7B%22weight%22%3A%221.75%22%2C%22text%22%3A%22Adecuado%20y%20claro%22%7D%2C%7B%22weight%22%3A%221.25%22%2C%22text%22%3A%22Poco%20atractivo%22%7D%2C%7B%22weight%22%3A%220%22%2C%22text%22%3A%22Descuidado%22%7D%5D%2C%5B%7B%22weight%22%3A%222%22%2C%22text%22%3A%22Incluye%20varios%20elementos%20interactivos%20%28enlaces%2C%20v%EDdeos%2C%20etc.%29%22%7D%2C%7B%22weight%22%3A%221.75%22%2C%22text%22%3A%22Incluye%20alg%FAn%20elemento%20interactivo%22%7D%2C%7B%22weight%22%3A%221.25%22%2C%22text%22%3A%22Interactividad%20m%EDnima%22%7D%2C%7B%22weight%22%3A%220%22%2C%22text%22%3A%22Sin%20elementos%20interactivos%22%7D%5D%2C%5B%7B%22weight%22%3A%222%22%2C%22text%22%3A%22Participaci%F3n%20equitativa%20y%20colaboraci%F3n%20excelente%22%7D%2C%7B%22weight%22%3A%221.75%22%2C%22text%22%3A%22Buena%20colaboraci%F3n%22%7D%2C%7B%22weight%22%3A%221.25%22%2C%22text%22%3A%22Participaci%F3n%20desigual%22%7D%2C%7B%22weight%22%3A%220%22%2C%22text%22%3A%22Falta%20de%20colaboraci%F3n%22%7D%5D%5D%2C%22instructions%22%3A%22%3Cp%3ECompleta%20la%20siguiente%20r%FAbrica%3C/p%3E%22%2C%22visible-info%22%3Atrue%2C%22author%22%3A%22Jack%20Ball%20Men%E9ndez%22%2C%22i18n%22%3A%7B%22rubric%22%3A%22R%FAbrica%22%2C%22activity%22%3A%22Actividad%22%2C%22name%22%3A%22Nombre%22%2C%22date%22%3A%22Fecha%22%2C%22score%22%3A%22Puntuaci%F3n%22%2C%22notes%22%3A%22Notas%22%2C%22download%22%3A%22Descargar%22%2C%22msgDelete%22%3A%22%BFSeguro%20que%20desea%20borrar%20todos%20los%20campos%20del%20formulario%3F%22%2C%22reset%22%3A%22Reiniciar%22%2C%22print%22%3A%22Imprimir%22%2C%22apply%22%3A%22Aplicar%22%2C%22newWindow%22%3A%22Ventana%20nueva%22%2C%22msgEndGameScore%22%3A%22Completa%20la%20r%FAbrica%20antes%20de%20guardar%20tu%20puntuaci%F3n.%22%2C%22msgScoreScorm%22%3A%22La%20puntuaci%F3n%20no%20se%20puede%20guardar%20porque%20esta%20p%E1gina%20no%20forma%20parte%20%20de%20un%20paquete%20SCORM.%22%2C%22msgOnlySaveScore%22%3A%22%A1Solo%20puede%20guardar%20la%20puntuaci%F3n%20una%20vez%21%22%2C%22msgYouScore%22%3A%22Su%20puntuaci%F3n%22%2C%22msgOnlySaveAuto%22%3A%22Tu%20puntuaci%F3n%20se%20guardar%E1%20despu%E9s%20de%20cada%20cambio.%20Solo%20puedes%20completarla%20una%20vez.%22%2C%22msgSaveAuto%22%3A%22Tu%20puntuaci%F3n%20se%20guardar%E1%20autom%E1ticamente%20despu%E9s%20de%20cada%20cambio.%22%2C%22msgSeveralScore%22%3A%22Puede%20guardar%20la%20puntuaci%F3n%20tantas%20veces%20como%20quiera%22%2C%22msgYouLastScore%22%3A%22La%20%FAltima%20puntuaci%F3n%20guardada%20es%22%2C%22msgActityComply%22%3A%22Ya%20ha%20realizado%20esta%20actividad.%22%2C%22msgPlaySeveralTimes%22%3A%22Puede%20realizar%20esta%20actividad%20cuantas%20veces%20quiera%22%2C%22msgScore%22%3A%22Puntuaci%F3n%22%2C%22msgWeight%22%3A%22Peso%22%7D%2C%22isScorm%22%3A0%2C%22textButtonScorm%22%3A%22Guardar%20la%20puntuaci%F3n%22%2C%22repeatActivity%22%3Atrue%2C%22weighted%22%3A100%7D</div><p class="exe-rubrics-authorship"><span class="author">Jack Ball Menéndez</span>. <span class="title"><em>Rúbrica de ejemplo (4x4)</em></span> </p><ul class="exe-rubrics-strings"><li class="rubric">Rúbrica</li><li class="activity">Actividad</li><li class="name">Nombre</li><li class="date">Fecha</li><li class="score">Puntuación</li><li class="notes">Notas</li><li class="download">Descargar</li><li class="msgDelete">¿Seguro que desea borrar todos los campos del formulario?</li><li class="reset">Reiniciar</li><li class="print">Imprimir</li><li class="apply">Aplicar</li><li class="newWindow">Ventana nueva</li><li class="msgEndGameScore">Completa la rúbrica antes de guardar tu puntuación.</li><li class="msgScoreScorm">La puntuación no se puede guardar porque esta página no forma parte  de un paquete SCORM.</li><li class="msgOnlySaveScore">¡Solo puede guardar la puntuación una vez!</li><li class="msgYouScore">Su puntuación</li><li class="msgOnlySaveAuto">Tu puntuación se guardará después de cada cambio. Solo puedes completarla una vez.</li><li class="msgSaveAuto">Tu puntuación se guardará automáticamente después de cada cambio.</li><li class="msgSeveralScore">Puede guardar la puntuación tantas veces como quiera</li><li class="msgYouLastScore">La última puntuación guardada es</li><li class="msgActityComply">Ya ha realizado esta actividad.</li><li class="msgPlaySeveralTimes">Puede realizar esta actividad cuantas veces quiera</li><li class="msgScore">Puntuación</li><li class="msgWeight">Peso</li></ul></div><div class="exe-rubrics-richtext-data sr-av"><span class="exe-rubrics-instructions-data">%3Cp%3ECompleta%20la%20siguiente%20r%FAbrica%3C/p%3E</span><span class="exe-rubrics-text-after-data"></span></div></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mosx4yhb-b2do7kar9</odePageId>
+  <odeParentPageId>page-mosx4ygs-g0wcfl59i</odeParentPageId>
+  <pageName>Sesión 4. Práctica instrumental con teclado</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 4. Práctica instrumental con teclado</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 4. Prompt IA de los dioses y de las diosas romanas</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Sesión 4. Práctica instrumental con teclado</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mosx4yhb-b2do7kar9</odePageId>
+      <odeBlockId>20260416165745HFUYZC</odeBlockId>
+      <blockName>Desarrollo de la sesión</blockName>
+      <iconName>discuss</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mosx4yhb-b2do7kar9</odePageId>
+          <odeBlockId>20260416165745HFUYZC</odeBlockId>
+          <odeIdeviceId>20260404174353539MU3</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;"><strong>Inicio (10’)</strong><br />El docente presentará la pieza musical que se va a trabajar (partitura adaptada), explicando sus elementos básicos (ritmo, notas principales, tempo). Se realizará una audición de referencia para que el alumnado tenga un modelo claro de interpretación.</p>
+<p style="text-align: justify;"><strong>Desarrollo (30’)</strong><br />El alumnado practicará de forma individual con los teclados, siguiendo las indicaciones del docente. Se propondrá un aprendizaje progresivo, comenzando por fragmentos sencillos de la pieza e incorporando gradualmente mayor complejidad. Se ofrecerán diferentes apoyos según las necesidades del alumnado: uso de códigos de colores en las teclas, aprendizaje por imitación o simplificación de la partitura.</p>
+<p style="text-align: justify;">El docente realizará una atención personalizada, ayudando a corregir errores, reforzar aspectos rítmicos y mejorar la coordinación. Además, se fomentará la ayuda entre iguales, permitiendo que el alumnado con mayor dominio apoye a sus compañeros/as.</p>
+<p style="text-align: justify;"><strong>Cierre (5’)</strong><br />Algunos alumnos/as podrán interpretar voluntariamente un fragmento de la pieza, favoreciendo la confianza y la motivación. Se realizará una breve reflexión sobre las dificultades encontradas y los progresos realizados.</p>
+<p style="text-align: justify;">Evaluación: observación directa mediante lista de cotejo (progreso, actitud, participación).</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20260404174353539MU3","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\"><strong>Inicio (10’)</strong><br />El docente presentará la pieza musical que se va a trabajar (partitura adaptada), explicando sus elementos básicos (ritmo, notas principales, tempo). Se realizará una audición de referencia para que el alumnado tenga un modelo claro de interpretación.</p>\n<p style=\"text-align: justify;\"><strong>Desarrollo (30’)</strong><br />El alumnado practicará de forma individual con los teclados, siguiendo las indicaciones del docente. Se propondrá un aprendizaje progresivo, comenzando por fragmentos sencillos de la pieza e incorporando gradualmente mayor complejidad. Se ofrecerán diferentes apoyos según las necesidades del alumnado: uso de códigos de colores en las teclas, aprendizaje por imitación o simplificación de la partitura.</p>\n<p style=\"text-align: justify;\">El docente realizará una atención personalizada, ayudando a corregir errores, reforzar aspectos rítmicos y mejorar la coordinación. Además, se fomentará la ayuda entre iguales, permitiendo que el alumnado con mayor dominio apoye a sus compañeros/as.</p>\n<p style=\"text-align: justify;\"><strong>Cierre (5’)</strong><br />Algunos alumnos/as podrán interpretar voluntariamente un fragmento de la pieza, favoreciendo la confianza y la motivación. Se realizará una breve reflexión sobre las dificultades encontradas y los progresos realizados.</p>\n<p style=\"text-align: justify;\">Evaluación: observación directa mediante lista de cotejo (progreso, actitud, participación).</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mosx4yhh-vne6i7z80</odePageId>
+  <odeParentPageId>page-mosx4ygs-g0wcfl59i</odeParentPageId>
+  <pageName>Sesión 5. Grabación del vídeo musical</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 5. Grabación del vídeo musical</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 5. Podcast de las deidades romanas del alumnado</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Sesión 5. Grabación del vídeo musical</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mosx4yhh-vne6i7z80</odePageId>
+      <odeBlockId>20260416165745UXUVQB</odeBlockId>
+      <blockName>Grabación del Videoclip</blockName>
+      <iconName>listen</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mosx4yhh-vne6i7z80</odePageId>
+          <odeBlockId>20260416165745UXUVQB</odeBlockId>
+          <odeIdeviceId>20260402181636656IV1</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;"><strong>Inicio (10’)</strong><br />La sesión comenzará con la explicación de las pautas básicas para la grabación del vídeo musical: colocación del dispositivo, cuidado del encuadre, control del sonido y respeto del turno de grabación. Asimismo, se introducirá de forma sencilla el uso de herramientas de edición como Audacity para mejorar el sonido y CapCut para el montaje audiovisual. El docente mostrará un ejemplo breve de vídeo final para que el alumnado tenga una referencia clara del producto esperado.</p>
+<p style="text-align: justify;"><strong>Desarrollo (30’)</strong><br />El alumnado, organizado en parejas, procederá a la grabación de su interpretación musical utilizando las tablets del centro. Se fomentará la repetición de tomas para mejorar el resultado final, favoreciendo la autoexigencia y la mejora progresiva. Aquellas parejas que finalicen antes podrán comenzar la edición básica del vídeo, sincronizando audio e imagen o añadiendo elementos sencillos (títulos, cortes, etc.).</p>
+<p style="text-align: justify;">Durante este proceso, el docente realizará un acompañamiento activo, resolviendo dudas técnicas, orientando sobre aspectos musicales (ritmo, precisión) y asegurando una participación equitativa.</p>
+<p style="text-align: justify;"><strong>Cierre (5’)</strong><br />Revisión rápida del material grabado por cada pareja, comprobando que disponen de una toma válida para la siguiente sesión.</p>
+<p style="text-align: justify;">Evaluación: observación del proceso (actitud, colaboración, implicación y uso adecuado de herramientas digitales).</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20260402181636656IV1","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\"><strong>Inicio (10’)</strong><br />La sesión comenzará con la explicación de las pautas básicas para la grabación del vídeo musical: colocación del dispositivo, cuidado del encuadre, control del sonido y respeto del turno de grabación. Asimismo, se introducirá de forma sencilla el uso de herramientas de edición como Audacity para mejorar el sonido y CapCut para el montaje audiovisual. El docente mostrará un ejemplo breve de vídeo final para que el alumnado tenga una referencia clara del producto esperado.</p>\n<p style=\"text-align: justify;\"><strong>Desarrollo (30’)</strong><br />El alumnado, organizado en parejas, procederá a la grabación de su interpretación musical utilizando las tablets del centro. Se fomentará la repetición de tomas para mejorar el resultado final, favoreciendo la autoexigencia y la mejora progresiva. Aquellas parejas que finalicen antes podrán comenzar la edición básica del vídeo, sincronizando audio e imagen o añadiendo elementos sencillos (títulos, cortes, etc.).</p>\n<p style=\"text-align: justify;\">Durante este proceso, el docente realizará un acompañamiento activo, resolviendo dudas técnicas, orientando sobre aspectos musicales (ritmo, precisión) y asegurando una participación equitativa.</p>\n<p style=\"text-align: justify;\"><strong>Cierre (5’)</strong><br />Revisión rápida del material grabado por cada pareja, comprobando que disponen de una toma válida para la siguiente sesión.</p>\n<p style=\"text-align: justify;\">Evaluación: observación del proceso (actitud, colaboración, implicación y uso adecuado de herramientas digitales).</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mosx4yhj-hzu8q80ei</odePageId>
+  <odeParentPageId>page-mosx4ygs-g0wcfl59i</odeParentPageId>
+  <pageName>Sesión 6. Edición final y presentación de los vídeos</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 6. Edición final y presentación de los vídeos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Sesión 6. Visita a las Termas Romanas de Gijón</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>Sesión 6. Edición final y presentación de los vídeos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mosx4yhj-hzu8q80ei</odePageId>
+      <odeBlockId>20260416165745JEIAWA</odeBlockId>
+      <blockName>Desarrollo de la sesión</blockName>
+      <iconName>music</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mosx4yhj-hzu8q80ei</odePageId>
+          <odeBlockId>20260416165745JEIAWA</odeBlockId>
+          <odeIdeviceId>20260402174119124MJS</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;"><strong>Inicio (10’)</strong><br />Se recordarán los criterios de evaluación del vídeo musical, visibles mediante rúbrica, haciendo hincapié en la interpretación, la coordinación y la calidad del producto digital. Se resolverán dudas relacionadas con la edición.</p>
+<p style="text-align: justify;"><strong>Desarrollo (25’)</strong><br />El alumnado continuará con la edición final del vídeo, utilizando las herramientas digitales propuestas. Se fomentará la mejora del producto mediante ajustes sencillos (recorte de clips, mejora del audio, inclusión de títulos). Una vez finalizado, cada pareja subirá su vídeo a la plataforma digital del centro (Teams o Aula Virtual).</p>
+<p style="text-align: justify;"><strong>Cierre (10’)</strong><br />Se visualizarán algunos de los vídeos en gran grupo, promoviendo un clima de respeto y valoración positiva del trabajo realizado. Se realizará una breve reflexión final guiada:</p>
+<p style="text-align: justify;">¿Qué he aprendido?<br />¿Qué ha sido lo más difícil?<br />¿Qué mejoraría?<br />Evaluación: rúbrica del vídeo musical, autoevaluación del alumnado y, opcionalmente, coevaluación entre iguales.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20260402174119124MJS","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\"><strong>Inicio (10’)</strong><br />Se recordarán los criterios de evaluación del vídeo musical, visibles mediante rúbrica, haciendo hincapié en la interpretación, la coordinación y la calidad del producto digital. Se resolverán dudas relacionadas con la edición.</p>\n<p style=\"text-align: justify;\"><strong>Desarrollo (25’)</strong><br />El alumnado continuará con la edición final del vídeo, utilizando las herramientas digitales propuestas. Se fomentará la mejora del producto mediante ajustes sencillos (recorte de clips, mejora del audio, inclusión de títulos). Una vez finalizado, cada pareja subirá su vídeo a la plataforma digital del centro (Teams o Aula Virtual).</p>\n<p style=\"text-align: justify;\"><strong>Cierre (10’)</strong><br />Se visualizarán algunos de los vídeos en gran grupo, promoviendo un clima de respeto y valoración positiva del trabajo realizado. Se realizará una breve reflexión final guiada:</p>\n<p style=\"text-align: justify;\">¿Qué he aprendido?<br />¿Qué ha sido lo más difícil?<br />¿Qué mejoraría?<br />Evaluación: rúbrica del vídeo musical, autoevaluación del alumnado y, opcionalmente, coevaluación entre iguales.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mosx4yhj-hzu8q80ei</odePageId>
+      <odeBlockId>20260416165745KUBALV</odeBlockId>
+      <blockName>Rúbrica Videoclip</blockName>
+      <iconName>activity</iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mosx4yhj-hzu8q80ei</odePageId>
+          <odeBlockId>20260416165745KUBALV</odeBlockId>
+          <odeIdeviceId>20260416185214208NB3</odeIdeviceId>
+          <odeIdeviceTypeName>rubric</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="rubric-IDevice"><div class="exe-rubrics-instructions gameQP-instructions"><p>Completa la siguiente rúbrica</p></div><div class="rubric"><div class="exe-rubrics-DataGame js-hidden">%7B%22typeGame%22%3A%22Rubric%22%2C%22version%22%3A2%2C%22id%22%3A%2220260416185214208NB3%22%2C%22table%22%3A%7B%22title%22%3A%22R%FAbrica%20de%20ejemplo%20%284x4%29%22%2C%22categories%22%3A%5B%22Interpretaci%F3n%20musical%22%2C%22Coordinaci%F3n%20en%20pareja%22%2C%22Calidad%20del%20audio/v%EDdeo%22%2C%22Edici%F3n%20digital%22%2C%22Actitud%20y%20esfuerzo%22%5D%2C%22scores%22%3A%5B%22Sobresaliente%22%2C%22Notable%22%2C%22Bien/Suficiente%22%2C%22Insuficiente%22%5D%2C%22descriptions%22%3A%5B%5B%7B%22weight%22%3A%222%22%2C%22text%22%3A%22Precisa%2C%20fluida%20y%20con%20buen%20ritmo%22%7D%2C%7B%22weight%22%3A%221.75%22%2C%22text%22%3A%22Peque%F1os%20errores%22%7D%2C%7B%22weight%22%3A%221%22%2C%22text%22%3A%22Varios%20errores%22%7D%2C%7B%22weight%22%3A%220.5%22%2C%22text%22%3A%22No%20logra%20interpretar%20la%20pieza%22%7D%5D%2C%5B%7B%22weight%22%3A%222%22%2C%22text%22%3A%22Muy%20buena%20coordinaci%F3n%20y%20sincronizaci%F3n%22%7D%2C%7B%22weight%22%3A%221.75%22%2C%22text%22%3A%22Coordinaci%F3n%20adecuada%22%7D%2C%7B%22weight%22%3A%221%22%2C%22text%22%3A%22Dificultades%20de%20coordinaci%F3n%22%7D%2C%7B%22weight%22%3A%220.5%22%2C%22text%22%3A%22Sin%20coordinaci%F3n%22%7D%5D%2C%5B%7B%22weight%22%3A%222%22%2C%22text%22%3A%22Sonido%20e%20imagen%20claros%20con%20precisi%F3n.%22%7D%2C%7B%22weight%22%3A%221.75%22%2C%22text%22%3A%22Calidad%20aceptable%20%22%7D%2C%7B%22weight%22%3A%221%22%2C%22text%22%3A%22Calidad%20irregular%22%7D%2C%7B%22weight%22%3A%220.5%22%2C%22text%22%3A%22Dif%EDcil%20de%20entender/ver%22%7D%5D%2C%5B%7B%22weight%22%3A%222%22%2C%22text%22%3A%22Uso%20adecuado%20de%20herramientas%2C%20v%EDdeo%20bien%20montado%22%7D%2C%7B%22weight%22%3A%221.75%22%2C%22text%22%3A%22Edici%F3n%20b%E1sica%20correcta%22%7D%2C%7B%22weight%22%3A%221%22%2C%22text%22%3A%22Edici%F3n%20m%EDnima%22%7D%2C%7B%22weight%22%3A%220.5%22%2C%22text%22%3A%22Sin%20edici%F3n%22%7D%5D%2C%5B%7B%22weight%22%3A%222%22%2C%22text%22%3A%22Gran%20implicaci%F3n%20y%20actitud%20positiva%22%7D%2C%7B%22weight%22%3A%221.75%22%2C%22text%22%3A%22Buena%20actitud%22%7D%2C%7B%22weight%22%3A%221%22%2C%22text%22%3A%22Participaci%F3n%20irregular%22%7D%2C%7B%22weight%22%3A%220.5%22%2C%22text%22%3A%22Baja%20implicaci%F3n%22%7D%5D%5D%7D%2C%22title%22%3A%22R%FAbrica%20de%20ejemplo%20%284x4%29%22%2C%22categories%22%3A%5B%22Interpretaci%F3n%20musical%22%2C%22Coordinaci%F3n%20en%20pareja%22%2C%22Calidad%20del%20audio/v%EDdeo%22%2C%22Edici%F3n%20digital%22%2C%22Actitud%20y%20esfuerzo%22%5D%2C%22scores%22%3A%5B%22Sobresaliente%22%2C%22Notable%22%2C%22Bien/Suficiente%22%2C%22Insuficiente%22%5D%2C%22descriptions%22%3A%5B%5B%7B%22weight%22%3A%222%22%2C%22text%22%3A%22Precisa%2C%20fluida%20y%20con%20buen%20ritmo%22%7D%2C%7B%22weight%22%3A%221.75%22%2C%22text%22%3A%22Peque%F1os%20errores%22%7D%2C%7B%22weight%22%3A%221%22%2C%22text%22%3A%22Varios%20errores%22%7D%2C%7B%22weight%22%3A%220.5%22%2C%22text%22%3A%22No%20logra%20interpretar%20la%20pieza%22%7D%5D%2C%5B%7B%22weight%22%3A%222%22%2C%22text%22%3A%22Muy%20buena%20coordinaci%F3n%20y%20sincronizaci%F3n%22%7D%2C%7B%22weight%22%3A%221.75%22%2C%22text%22%3A%22Coordinaci%F3n%20adecuada%22%7D%2C%7B%22weight%22%3A%221%22%2C%22text%22%3A%22Dificultades%20de%20coordinaci%F3n%22%7D%2C%7B%22weight%22%3A%220.5%22%2C%22text%22%3A%22Sin%20coordinaci%F3n%22%7D%5D%2C%5B%7B%22weight%22%3A%222%22%2C%22text%22%3A%22Sonido%20e%20imagen%20claros%20con%20precisi%F3n.%22%7D%2C%7B%22weight%22%3A%221.75%22%2C%22text%22%3A%22Calidad%20aceptable%20%22%7D%2C%7B%22weight%22%3A%221%22%2C%22text%22%3A%22Calidad%20irregular%22%7D%2C%7B%22weight%22%3A%220.5%22%2C%22text%22%3A%22Dif%EDcil%20de%20entender/ver%22%7D%5D%2C%5B%7B%22weight%22%3A%222%22%2C%22text%22%3A%22Uso%20adecuado%20de%20herramientas%2C%20v%EDdeo%20bien%20montado%22%7D%2C%7B%22weight%22%3A%221.75%22%2C%22text%22%3A%22Edici%F3n%20b%E1sica%20correcta%22%7D%2C%7B%22weight%22%3A%221%22%2C%22text%22%3A%22Edici%F3n%20m%EDnima%22%7D%2C%7B%22weight%22%3A%220.5%22%2C%22text%22%3A%22Sin%20edici%F3n%22%7D%5D%2C%5B%7B%22weight%22%3A%222%22%2C%22text%22%3A%22Gran%20implicaci%F3n%20y%20actitud%20positiva%22%7D%2C%7B%22weight%22%3A%221.75%22%2C%22text%22%3A%22Buena%20actitud%22%7D%2C%7B%22weight%22%3A%221%22%2C%22text%22%3A%22Participaci%F3n%20irregular%22%7D%2C%7B%22weight%22%3A%220.5%22%2C%22text%22%3A%22Baja%20implicaci%F3n%22%7D%5D%5D%2C%22instructions%22%3A%22%3Cp%3ECompleta%20la%20siguiente%20r%FAbrica%3C/p%3E%22%2C%22visible-info%22%3Atrue%2C%22author%22%3A%22Jack%20Ball%20Men%E9ndez%22%2C%22i18n%22%3A%7B%22rubric%22%3A%22R%FAbrica%22%2C%22activity%22%3A%22Actividad%22%2C%22name%22%3A%22Nombre%22%2C%22date%22%3A%22Fecha%22%2C%22score%22%3A%22Puntuaci%F3n%22%2C%22notes%22%3A%22Notas%22%2C%22download%22%3A%22Descargar%22%2C%22msgDelete%22%3A%22%BFSeguro%20que%20desea%20borrar%20todos%20los%20campos%20del%20formulario%3F%22%2C%22reset%22%3A%22Reiniciar%22%2C%22print%22%3A%22Imprimir%22%2C%22apply%22%3A%22Aplicar%22%2C%22newWindow%22%3A%22Ventana%20nueva%22%2C%22msgEndGameScore%22%3A%22Completa%20la%20r%FAbrica%20antes%20de%20guardar%20tu%20puntuaci%F3n.%22%2C%22msgScoreScorm%22%3A%22La%20puntuaci%F3n%20no%20se%20puede%20guardar%20porque%20esta%20p%E1gina%20no%20forma%20parte%20%20de%20un%20paquete%20SCORM.%22%2C%22msgOnlySaveScore%22%3A%22%A1Solo%20puede%20guardar%20la%20puntuaci%F3n%20una%20vez%21%22%2C%22msgYouScore%22%3A%22Su%20puntuaci%F3n%22%2C%22msgOnlySaveAuto%22%3A%22Tu%20puntuaci%F3n%20se%20guardar%E1%20despu%E9s%20de%20cada%20cambio.%20Solo%20puedes%20completarla%20una%20vez.%22%2C%22msgSaveAuto%22%3A%22Tu%20puntuaci%F3n%20se%20guardar%E1%20autom%E1ticamente%20despu%E9s%20de%20cada%20cambio.%22%2C%22msgSeveralScore%22%3A%22Puede%20guardar%20la%20puntuaci%F3n%20tantas%20veces%20como%20quiera%22%2C%22msgYouLastScore%22%3A%22La%20%FAltima%20puntuaci%F3n%20guardada%20es%22%2C%22msgActityComply%22%3A%22Ya%20ha%20realizado%20esta%20actividad.%22%2C%22msgPlaySeveralTimes%22%3A%22Puede%20realizar%20esta%20actividad%20cuantas%20veces%20quiera%22%2C%22msgScore%22%3A%22Puntuaci%F3n%22%2C%22msgWeight%22%3A%22Peso%22%7D%2C%22isScorm%22%3A0%2C%22textButtonScorm%22%3A%22Guardar%20la%20puntuaci%F3n%22%2C%22repeatActivity%22%3Atrue%2C%22weighted%22%3A100%7D</div><p class="exe-rubrics-authorship"><span class="author">Jack Ball Menéndez</span>. <span class="title"><em>Rúbrica de ejemplo (4x4)</em></span> </p><ul class="exe-rubrics-strings"><li class="rubric">Rúbrica</li><li class="activity">Actividad</li><li class="name">Nombre</li><li class="date">Fecha</li><li class="score">Puntuación</li><li class="notes">Notas</li><li class="download">Descargar</li><li class="msgDelete">¿Seguro que desea borrar todos los campos del formulario?</li><li class="reset">Reiniciar</li><li class="print">Imprimir</li><li class="apply">Aplicar</li><li class="newWindow">Ventana nueva</li><li class="msgEndGameScore">Completa la rúbrica antes de guardar tu puntuación.</li><li class="msgScoreScorm">La puntuación no se puede guardar porque esta página no forma parte  de un paquete SCORM.</li><li class="msgOnlySaveScore">¡Solo puede guardar la puntuación una vez!</li><li class="msgYouScore">Su puntuación</li><li class="msgOnlySaveAuto">Tu puntuación se guardará después de cada cambio. Solo puedes completarla una vez.</li><li class="msgSaveAuto">Tu puntuación se guardará automáticamente después de cada cambio.</li><li class="msgSeveralScore">Puede guardar la puntuación tantas veces como quiera</li><li class="msgYouLastScore">La última puntuación guardada es</li><li class="msgActityComply">Ya ha realizado esta actividad.</li><li class="msgPlaySeveralTimes">Puede realizar esta actividad cuantas veces quiera</li><li class="msgScore">Puntuación</li><li class="msgWeight">Peso</li></ul></div><div class="exe-rubrics-richtext-data sr-av"><span class="exe-rubrics-instructions-data">%3Cp%3ECompleta%20la%20siguiente%20r%FAbrica%3C/p%3E</span><span class="exe-rubrics-text-after-data"></span></div></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mosx4yhk-llcmh9t2p</odePageId>
+  <odeParentPageId>page-mosx4ygs-g0wcfl59i</odeParentPageId>
+  <pageName>Necesidades Educativas</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Necesidades Educativas</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Necesidades Educativas</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mosx4yhk-llcmh9t2p</odePageId>
+      <odeBlockId>20260416165745FTYOZC</odeBlockId>
+      <blockName>Apoyos metodológicos</blockName>
+      <iconName>competencies</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mosx4yhk-llcmh9t2p</odePageId>
+          <odeBlockId>20260416165745FTYOZC</odeBlockId>
+          <odeIdeviceId>20260407194618258IG5</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">Las medidas metodológicas de esta Situación de Aprendizaje se basan en el aprendizaje cooperativo, mediante la organización del alumnado en grupos de 4-5 integrantes, en los que se asignan roles para favorecer la participación equitativa y la inclusión:</p>
+<p style="text-align: justify;">- Coordinador/a: organiza el trabajo del grupo y asegura la participación de todos los miembros.<br />- Responsable digital: se encarga del uso de las herramientas tecnológicas.<br />- Ayudante: apoya a sus compañeros/as en la comprensión de la tarea sin dar la respuesta.<br />- Portavoz: comunica las ideas y resultados del grupo al resto de la clase.<br /><br />En cuanto a las actividades, se prioriza el uso de herramientas digitales accesibles y visuales (como Canva para la infografía), partiendo de plantillas guiadas que faciliten la organización de la información. Además, se permite el uso de recursos visuales, audiovisuales y ejemplos prácticos para favorecer distintos estilos de aprendizaje.</p>
+<p style="text-align: justify;">Para la práctica instrumental, se contemplan adaptaciones como el uso de partituras simplificadas, aprendizaje por imitación, fragmentación de la pieza en partes más pequeñas y el empleo de códigos de colores en las teclas o notas, facilitando así la comprensión y ejecución musical.</p>
+<p style="text-align: justify;">En las actividades digitales y juegos interactivos, se podrá adaptar el tiempo de realización, reducir el número de opciones de respuesta o proporcionar apoyos adicionales según las necesidades del alumnado.</p>
+<p style="text-align: justify;">En la grabación del vídeo musical, se permitirá la repetición de tomas y, si es necesario, la grabación por fragmentos, facilitando la participación de todo el alumnado y reduciendo la carga cognitiva. Estas medidas garantizan un entorno inclusivo que favorece el aprendizaje significativo y el desarrollo competencial de todo el grupo.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20260407194618258IG5","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">Las medidas metodológicas de esta Situación de Aprendizaje se basan en el aprendizaje cooperativo, mediante la organización del alumnado en grupos de 4-5 integrantes, en los que se asignan roles para favorecer la participación equitativa y la inclusión:</p>\n<p style=\"text-align: justify;\">- Coordinador/a: organiza el trabajo del grupo y asegura la participación de todos los miembros.<br />- Responsable digital: se encarga del uso de las herramientas tecnológicas.<br />- Ayudante: apoya a sus compañeros/as en la comprensión de la tarea sin dar la respuesta.<br />- Portavoz: comunica las ideas y resultados del grupo al resto de la clase.<br /><br />En cuanto a las actividades, se prioriza el uso de herramientas digitales accesibles y visuales (como Canva para la infografía), partiendo de plantillas guiadas que faciliten la organización de la información. Además, se permite el uso de recursos visuales, audiovisuales y ejemplos prácticos para favorecer distintos estilos de aprendizaje.</p>\n<p style=\"text-align: justify;\">Para la práctica instrumental, se contemplan adaptaciones como el uso de partituras simplificadas, aprendizaje por imitación, fragmentación de la pieza en partes más pequeñas y el empleo de códigos de colores en las teclas o notas, facilitando así la comprensión y ejecución musical.</p>\n<p style=\"text-align: justify;\">En las actividades digitales y juegos interactivos, se podrá adaptar el tiempo de realización, reducir el número de opciones de respuesta o proporcionar apoyos adicionales según las necesidades del alumnado.</p>\n<p style=\"text-align: justify;\">En la grabación del vídeo musical, se permitirá la repetición de tomas y, si es necesario, la grabación por fragmentos, facilitando la participación de todo el alumnado y reduciendo la carga cognitiva. Estas medidas garantizan un entorno inclusivo que favorece el aprendizaje significativo y el desarrollo competencial de todo el grupo.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mosx4yhl-dc66qh1dz</odePageId>
+  <odeParentPageId>page-mosx4ygs-g0wcfl59i</odeParentPageId>
+  <pageName>Evaluación</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Evaluación</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mosx4yhl-dc66qh1dz</odePageId>
+      <odeBlockId>20260416165745RWDKEL</odeBlockId>
+      <blockName>LOMLOE</blockName>
+      <iconName>activity</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mosx4yhl-dc66qh1dz</odePageId>
+          <odeBlockId>20260416165745RWDKEL</odeBlockId>
+          <odeIdeviceId>20260402174136745KKO</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template"><div class="textIdeviceContent">
+            <div class="exe-text-activity">
+                <div><p>De acuerdo con el <strong>Decreto 57/2022</strong>, la evaluación del alumnado ha de ser formativa, sumativa y continua.</p>
+<p>Por ello, la evaluación de esta SdA se dividirá en tres secciones:</p>
+<p>- <strong>Procedimientos o técnicas:</strong> cómo vamos a evaluar.</p>
+<p>- <strong>Actividad de evaluación</strong>: qué vamos a evaluar.</p>
+<p>- <strong>Instrumento:</strong> con qué vamos a evaluar.</p><p class="clearfix"></p></div>
+            </div></div></div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20260402174136745KKO","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>De acuerdo con el <strong>Decreto 57/2022</strong>, la evaluación del alumnado ha de ser formativa, sumativa y continua.</p>\n<p>Por ello, la evaluación de esta SdA se dividirá en tres secciones:</p>\n<p>- <strong>Procedimientos o técnicas:</strong> cómo vamos a evaluar.</p>\n<p>- <strong>Actividad de evaluación</strong>: qué vamos a evaluar.</p>\n<p>- <strong>Instrumento:</strong> con qué vamos a evaluar.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mosx4yhl-dc66qh1dz</odePageId>
+      <odeBlockId>20260416165745YFRYMV</odeBlockId>
+      <blockName>Procedimientos o técnicas</blockName>
+      <iconName>draw</iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mosx4yhl-dc66qh1dz</odePageId>
+          <odeBlockId>20260416165745YFRYMV</odeBlockId>
+          <odeIdeviceId>202604021756164201BC</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>☐ Observación sistemática </strong>en el aula.</p>
+<p>☐ <strong>Producciones</strong> del alumnado: Infografía y Videoclip.</p>
+<p>☐  <strong>Autoevaluación</strong> del alumnado al final de la Situación de Aprendizaje.</p>
+<p><strong>☐  Co-evaluación</strong> del trabajo en parejas.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"202604021756164201BC","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>☐ Observación sistemática </strong>en el aula.</p>\n<p>☐ <strong>Producciones</strong> del alumnado: Infografía y Videoclip.</p>\n<p>☐  <strong>Autoevaluación</strong> del alumnado al final de la Situación de Aprendizaje.</p>\n<p><strong>☐  Co-evaluación</strong> del trabajo en parejas.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mosx4yhl-dc66qh1dz</odePageId>
+      <odeBlockId>20260416165745FURMMC</odeBlockId>
+      <blockName>Actividad de evaluación</blockName>
+      <iconName>listen</iconName>
+      <odePagStructureOrder>3</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mosx4yhl-dc66qh1dz</odePageId>
+          <odeBlockId>20260416165745FURMMC</odeBlockId>
+          <odeIdeviceId>202604021756545670EV</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>☐ <b>Infografía </b>sobre los instrumentos de la orquesta</p>
+<p>☐ <b>Interpretación </b>de la canción.</p>
+<p>☐ <b>Videoclip </b>de los y las alumn@s tocando.</p>
+<p><strong>☐ Participación diaria</strong></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"202604021756545670EV","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>☐ <b>Infografía </b>sobre los instrumentos de la orquesta</p>\n<p>☐ <b>Interpretación </b>de la canción.</p>\n<p>☐ <b>Videoclip </b>de los y las alumn@s tocando.</p>\n<p><strong>☐ Participación diaria</strong></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mosx4yhl-dc66qh1dz</odePageId>
+      <odeBlockId>20260416165745VENIAH</odeBlockId>
+      <blockName>Instrumento</blockName>
+      <iconName>diary</iconName>
+      <odePagStructureOrder>4</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mosx4yhl-dc66qh1dz</odePageId>
+          <odeBlockId>20260416165745VENIAH</odeBlockId>
+          <odeIdeviceId>20260402175732264C0F</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>☐ Lista de control</strong> a cerca de las entregas, participación en las sesiones, ausencia del alumnado.</p>
+<p><strong id="link_3">☐ Rúbrica:</strong> evaluación del podcast creado por el alumnado.</p>
+<p><strong>☐ Diario de clase</strong>: El o la docente tomará notas sobre la evolución de la sesión y avances, así como dificultades y adaptaciones.</p>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"20260402175732264C0F","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>☐ Lista de control</strong> a cerca de las entregas, participación en las sesiones, ausencia del alumnado.</p>\n<p><strong id=\"link_3\">☐ Rúbrica:</strong> evaluación del podcast creado por el alumnado.</p>\n<p><strong>☐ Diario de clase</strong>: El o la docente tomará notas sobre la evolución de la sesión y avances, así como dificultades y adaptaciones.</p>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mosx4yhn-o3d90yuap</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Atribución y descarga</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Atribución y descarga</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Atribución y descarga</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleHtml</key>
+      <value></value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>description</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mosx4yhn-o3d90yuap</odePageId>
+      <odeBlockId>20260416165745TWEILH</odeBlockId>
+      <blockName>Descargar el archivo fuente</blockName>
+      <iconName>download</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mosx4yhn-o3d90yuap</odePageId>
+          <odeBlockId>20260416165745TWEILH</odeBlockId>
+          <odeIdeviceId>202604101154383144Q8</odeIdeviceId>
+          <odeIdeviceTypeName>download-source-file</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-download-package-instructions"><table class="exe-table exe-package-info"><caption>Información general sobre este recurso educativo</caption>
+<tbody>
+<tr>
+<th>Título</th>
+<td>Sesiones de la SdA- Las DeIdAdes romanas</td>
+</tr>
+<tr>
+<th>Descripción</th>
+<td>Sesiones de la Situación de Aprendizaje para el alumnado de 4º de Educación Primaria del área de Lengua Castellana y vinculada con Inglés.</td>
+</tr>
+<tr>
+<th>Autoría</th>
+<td>Maria Viñes Rodelgo</td>
+</tr>
+<tr>
+<th>Licencia</th>
+<td>creative commons: attribution - share alike 4.0</td>
+</tr>
+</tbody>
+</table>
+<p style="text-align: center;">Este contenido fue creado con <a href="http://exelearning.net/">eXeLearning</a>, el editor libre y de fuente abierta diseñado para crear recursos educativos.</p></div><p class="exe-download-package-link"><a download="exe-package:elp-name" href="exe-package:elp" style="background-color:#107275;color:#ffffff;">Descargar el archivo .elpx</a></p>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
